@@ -1,10 +1,9 @@
 ---
 banner:
   title: We love Clash of Clans and Clash Royale!
-  image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  image: "/images/phone-game.png"
+  content: 'We produce multiple Clash Podcasts, host exciting Clash Scrims, and provide
+    a welcoming Discord Community. '
   button:
     enable: true
     label: Contact With Us
