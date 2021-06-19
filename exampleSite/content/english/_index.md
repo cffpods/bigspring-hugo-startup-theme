@@ -5,7 +5,7 @@ banner:
   content: 'We produce multiple Clash Podcasts, host exciting Clash Scrims, and provide
     a welcoming Discord Community. '
   button:
-    enable: true
+    enable: false
     label: Contact With Us
     link: contact
 feature:
