@@ -1,15 +1,12 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
+title: Join Us
+subtitle: Become a part of our Clash Family
+description: ''
 draft: false
+
 ---
+### Join Our Discord Server
 
+For more than six years we have provided a welcoming Clash of Clans and Clash Royale community with scrims, 15+ clans, friendship, and fun. 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+*  [**https://discord.gg/clashfiles**](https://discord.gg/clashfiles "discord.gg/clashfiles")
