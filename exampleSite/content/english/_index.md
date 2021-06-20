@@ -1,7 +1,7 @@
 ---
 banner:
-  title: We love Clash of Clans and Clash Royale!
-  image: "/images/phone-game.png"
+  title: We love to talk about Clash of Clans and Clash Royale!
+  image: "/images/people-recording-podcast-tr.png"
   content: 'We produce multiple Clash Podcasts, host exciting Clash Scrims, and provide
     a welcoming Discord Community. '
   button:
