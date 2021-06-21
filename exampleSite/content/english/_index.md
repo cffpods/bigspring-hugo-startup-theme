@@ -16,14 +16,14 @@ feature:
     icon: fas fa-microphone-alt
     content: We cover wars, pushing, farming, leagues, clan management & more.
   - name: Scrims & Events
-    icon: fas fa-calendar-alt
+    icon: fas fa-trophy
     content: We always have an event running because gaming is more fun with friends!
   - name: 15+ Clans
     icon: fas fa-chess-rook
     content: Our Clash & Royale clans are full of players who are mature, active,
       & fun.
   - name: Leagues & eSports
-    icon: fas fa-trophy
+    icon: fas fa-medal
     content: 'We participate in potluck wars, community-made leagues, and eSports
       tournaments. '
   - name: Gameplay Development
