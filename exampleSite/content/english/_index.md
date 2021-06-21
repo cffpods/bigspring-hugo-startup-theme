@@ -20,17 +20,18 @@ feature:
     content: We always have an event running because gaming is more fun with friends!
   - name: 15+ Clans
     icon: fas fa-home
-    content: Our Clash & Royale clans are full of gamers who are mature, active, &
-      fun.
+    content: Our Clash & Royale clans are full of players who are mature, active,
+      & fun.
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: Discord Community
     icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: The fun, relaxed, & clashy play style of our pizza-loving gamers has
+      made us a welcoming family for over six years!
 service:
   enable: true
   service_item:
