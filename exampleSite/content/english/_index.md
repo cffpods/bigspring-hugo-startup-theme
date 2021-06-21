@@ -16,10 +16,10 @@ feature:
     icon: fas fa-microphone-alt
     content: We cover wars, pushing, farming, leagues, clan management & more.
   - name: Scrims & Events
-    icon: fas calendar-alt
+    icon: fas fa-calendar-alt
     content: We always have an event running because gaming is more fun with friends!
   - name: 15+ Clans
-    icon: fas fort-awesome
+    icon: fas fa-fort-awesome
     content: 'Our Clash & Royale clans are full of friendly adults. '
   - name: Value For Money
     icon: fas fa-heart
