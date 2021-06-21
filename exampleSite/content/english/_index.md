@@ -40,7 +40,7 @@ service:
       them
     images:
     - images/service-1.png
-    - images/service-2.png
+    - "/images/pineapplesandthorns-kat.png"
     - images/service-3.png
     content: 'Our two most recent shows, Pineapple & Thorns and Married 2 Clash, are
       the spiritual successors of our three previous podcasts: The Clash Files, Kent
@@ -87,7 +87,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Experience the best <br> Clash Community
   image: images/screenshot.svg
 call_to_action:
   enable: true
