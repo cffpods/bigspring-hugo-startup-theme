@@ -19,7 +19,7 @@ feature:
     icon: fas fa-calendar-alt
     content: We always have an event running because gaming is more fun with friends!
   - name: 15+ Clans
-    icon: fas fa-fort-awesome
+    icon: fas fa-home
     content: Our Clash & Royale clans are full of friendly adults with playstyles
       from casual to competitive.
   - name: Value For Money
