@@ -29,7 +29,7 @@ feature:
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Discord Community
-    icon: fas fa-cloud
+    icon: fas fa-user-friends
     content: The fun, relaxed, & clashy play style of our pizza-loving gamers has
       made us a welcoming family for over six years!
 service:
