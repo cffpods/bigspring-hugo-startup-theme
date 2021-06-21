@@ -10,10 +10,10 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: About Us
   feature_item:
   - name: Clash Podcasts
-    icon: fas fa-code
+    icon: fas podcast
     content: We cover all things Clash - wars, trophy pushing, loot farming, leagues,
       clan management & more.
   - name: Object Oriented
