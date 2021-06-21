@@ -39,9 +39,9 @@ service:
   - title: We enjoy Clash games so much that we've produced multiple podcasts about
       them
     images:
-    - images/service-1.png
+    - "/images/radio-broadcasting-tr.png"
     - "/images/pineapplesandthorns-kat.png"
-    - images/service-3.png
+    - "/images/cover-art.jpg"
     content: 'Our two most recent shows, Pineapple & Thorns and Married 2 Clash, are
       the spiritual successors of our three previous podcasts: The Clash Files, Kent
       Greenhouse, and Married with Clash.'
