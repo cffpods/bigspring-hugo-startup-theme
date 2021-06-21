@@ -13,7 +13,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: Clash Podcasts
-    icon: "/images/podcast-2.png"
+    icon: fas fa-code
     content: We cover all things Clash - wars, trophy pushing, loot farming, leagues,
       clan management & more.
   - name: Object Oriented
