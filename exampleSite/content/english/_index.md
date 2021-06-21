@@ -25,9 +25,10 @@ feature:
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Gameplay Development
+    icon: fas fa-gamepad
+    content: We teach important war skills like base building, base identification,
+      scouting, & more!
   - name: Discord Community
     icon: fas fa-user-friends
     content: We've been a relaxed, clashy, pizza-loving clan family for over six years!
