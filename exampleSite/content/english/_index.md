@@ -97,7 +97,7 @@ call_to_action:
     eget amet, tempus eu at consecttur.
   button:
     enable: true
-    label: Contact Us
-    link: contact
+    label: Discord
+    link: https://discord.gg/clashfiles
 
 ---
