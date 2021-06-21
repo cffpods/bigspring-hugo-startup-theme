@@ -14,8 +14,7 @@ feature:
   feature_item:
   - name: Clash Podcasts
     icon: fas podcast
-    content: We cover all things Clash - wars, trophy pushing, loot farming, leagues,
-      clan management & more.
+    content: We cover wars, pushing, farming, leagues, clan management & more.
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
