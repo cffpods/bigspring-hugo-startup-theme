@@ -36,7 +36,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: 'Clash Files: Clash of Clans Podcasts'
+  - title: Clash Files Podcasts
     images:
     - images/service-1.png
     - images/service-2.png
