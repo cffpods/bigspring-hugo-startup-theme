@@ -36,19 +36,18 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: 'Clash Files: Clash of Clans Podcasts'
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 'We enjoy Clash games so much that we''ve produced multiple podcasts
+      about them! Our two most recent shows, Pineapple & Thorns and Married 2 Clash,
+      are the spiritual successors of our three previous podcasts: The Clash Files,
+      Kent Greenhouse, and Married with Clash.'
     button:
       enable: true
-      label: Check it out
+      label: Check them out
       link: "#"
   - title: It is a privately owned Information and cyber security company
     images:
