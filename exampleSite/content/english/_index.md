@@ -92,7 +92,7 @@ screenshot:
 call_to_action:
   enable: true
   title: Ready to join us?
-  image: images/cta.svg
+  image: "/images/discord_partner_full_logo_lockup_primary_blurple_rgb.svg"
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
   button:
