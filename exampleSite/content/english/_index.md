@@ -36,15 +36,15 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Clash Files Podcasts
+  - title: We enjoy Clash games so much that we've produced multiple podcasts about
+      them
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: 'We enjoy Clash games so much that we''ve produced multiple podcasts
-      about them! Our two most recent shows, Pineapple & Thorns and Married 2 Clash,
-      are the spiritual successors of our three previous podcasts: The Clash Files,
-      Kent Greenhouse, and Married with Clash.'
+    content: 'Our two most recent shows, Pineapple & Thorns and Married 2 Clash, are
+      the spiritual successors of our three previous podcasts: The Clash Files, Kent
+      Greenhouse, and Married with Clash.'
     button:
       enable: true
       label: Check them out
