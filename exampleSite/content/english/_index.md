@@ -28,8 +28,8 @@ feature:
       tournaments. '
   - name: Gameplay Development
     icon: fas fa-gamepad
-    content: We teach important war skills like base building, base identification,
-      scouting, & more!
+    content: We teach war skills like base building, base identification, scouting,
+      & more.
   - name: Discord Community
     icon: fas fa-user-friends
     content: We've been a relaxed, clashy, pizza-loving clan family for over six years!
