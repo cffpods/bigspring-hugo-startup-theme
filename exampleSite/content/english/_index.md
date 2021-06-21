@@ -12,9 +12,10 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Clash Podcasts
+    icon: "/images/podcast-2.png"
+    content: We cover all things Clash - wars, trophy pushing, loot farming, leagues,
+      clan management & more.
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
