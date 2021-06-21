@@ -91,10 +91,10 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to join us?
+  title: Ready to play?
   image: "/images/discord_partner_full_logo_lockup_primary_blurple_rgb.svg"
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: 'Join our Clash of Clans & Clash Royale Community and experience the way
+    Clash is supposed to be played - fun & drama-free! '
   button:
     enable: true
     label: Discord
