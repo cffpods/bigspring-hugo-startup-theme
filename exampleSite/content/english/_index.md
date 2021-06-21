@@ -15,9 +15,9 @@ feature:
   - name: Clash Podcasts
     icon: fas fa-microphone-alt
     content: We cover wars, pushing, farming, leagues, clan management & more.
-  - name: Object Oriented
-    icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Scrims & Events
+    icon: fas calendar-alt
+    content: We always have an event running because gaming is more fun with friends!
   - name: 15+ Clans
     icon: fas fort-awesome
     content: 'Our Clash & Royale clans are full of friendly adults. '
