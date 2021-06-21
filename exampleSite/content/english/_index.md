@@ -22,9 +22,10 @@ feature:
     icon: fas fa-chess-rook
     content: Our Clash & Royale clans are full of players who are mature, active,
       & fun.
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Leagues & eSports
+    icon: fas fa-trophy
+    content: 'We participate in potluck wars, community-made leagues, and eSports
+      tournaments. '
   - name: Gameplay Development
     icon: fas fa-gamepad
     content: We teach important war skills like base building, base identification,
