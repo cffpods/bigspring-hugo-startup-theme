@@ -92,7 +92,7 @@ screenshot:
 call_to_action:
   enable: true
   title: Ready to play?
-  image: "/images/discord_partner_full_logo_lockup_primary_blurple_rgb.svg"
+  image: "/images/discord_partner_full_logo_lockup_primary_black_rgb.svg"
   content: 'Join our Clash of Clans & Clash Royale Community and experience the way
     Clash is supposed to be played - fun & drama-free! '
   button:
