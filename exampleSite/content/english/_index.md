@@ -13,7 +13,7 @@ feature:
   title: About Us
   feature_item:
   - name: Clash Podcasts
-    icon: fas podcast
+    icon: fas fa-microphone
     content: We cover wars, pushing, farming, leagues, clan management & more.
   - name: Object Oriented
     icon: fas fa-object-group
