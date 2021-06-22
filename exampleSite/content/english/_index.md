@@ -37,7 +37,7 @@ service:
   enable: true
   service_item:
   - title: We enjoy Clash games so much that we've produced multiple podcasts about
-      them
+      them!
     images:
     - "/images/radio-broadcasting-tr.png"
     - "/images/pineapplesandthorns-kat.png"
