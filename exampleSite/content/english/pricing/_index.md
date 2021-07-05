@@ -32,10 +32,10 @@ professional:
     label: Get started for free
     link: "#"
 business:
-  name: Business Plan
-  price: "$49"
-  price_per: month
-  info: Best For Large Individuals
+  name: Clash Royale
+  price: Casually Competitive
+  price_per: ''
+  info: Best For CR lovers
   services:
   - Express Service
   - Customs Clearance
