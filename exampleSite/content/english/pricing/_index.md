@@ -7,7 +7,7 @@ basic:
   name: Serious War
   price: Warmongers
   price_per: ''
-  info: For players who like to war hard and play hard
+  info: We war hard and play hard
   services:
   - Express Service
   - Customs Clearance
