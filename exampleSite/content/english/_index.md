@@ -88,7 +88,7 @@ service:
 screenshot:
   enable: true
   title: Experience the best <br> Clash Community
-  image: "/images/banner-new2.png"
+  image: "/images/banner-new3.png"
 call_to_action:
   enable: true
   title: Ready to play?
