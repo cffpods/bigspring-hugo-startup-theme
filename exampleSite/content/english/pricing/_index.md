@@ -4,8 +4,8 @@ subtitle: ''
 description: 'We offer the following types of clans:'
 draft: false
 basic:
-  name: Serious War
-  price: Warmongers
+  name: Clash of Clans
+  price: Serious War
   price_per: ''
   info: We war hard and play hard
   services:
