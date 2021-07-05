@@ -11,10 +11,10 @@ weight = 2
 [en]
 contentDir = "content/english"
 copyright = "© Clash Podcast 2021"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
+footer_content = "The Clash Files is a welcoming Clash of Clans & Clash Royale community providing podcasts, scrims, 15+ clans, friendship, & fun for over 6 years!  🍕"
+footer_menu_left = "Clans"
+footer_menu_middle = "Podcasts"
+footer_menu_right = "Scrims"
 languageName = "En"
 title = "Clash Podcast"
 weight = 1
