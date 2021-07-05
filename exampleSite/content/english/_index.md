@@ -91,10 +91,10 @@ screenshot:
   image: "/images/banner-new3.png"
 call_to_action:
   enable: true
-  title: Ready to play?
+  title: Ready to play in a fun & drama-free way?
   image: "/images/discord_partner_full_logo_lockup_primary_black_rgb.svg"
   content: 'Join our Clash of Clans & Clash Royale Community and experience the way
-    Clash is supposed to be - fun & drama-free! '
+    Clash is supposed to be! '
   button:
     enable: true
     label: Discord
