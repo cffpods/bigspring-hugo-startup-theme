@@ -5,7 +5,7 @@ description: Almost everything you wanted to know about the CFF
 draft: false
 
 ---
-{{< faq "How did The Clash Files become a Clan Family?" >}} ​Six years ago, four Clashers came together to create The Clash Files Podcast.​​ As the podcast became more popular, our membership grew and our bonds were as tight as ever, so we created more clans to expand our family. Along the way we also held Clash of Clans and Clash Royale events, where we made some great friends - many of whom joined our clans with alt accounts! After playing in several Clash Scrims together and mingling in each other's chats for a long time, some of our Clash friends began to feel like family, so we invited them to join us. ​ {{</ faq >}}
+{{< faq "How did The Clash Files become a Clan Family?" >}} ​Six years ago, four Clashers came together to create The Clash Files Podcast.​​ As the podcast became more popular, our membership grew so we created more clans to expand our family. Along the way we also held Clash of Clans and Clash Royale events, where we made some great friends - many of whom joined our clans with alt accounts! After playing in several Clash Scrims together and mingling in each other's chats for a long time, some of our Clash friends began to feel like family, so we invited them to join us. ​ {{</ faq >}}
 
 {{< faq "Do I need to be a Clash Files Family member to play in your Clash Scrims?" >}} Not at all! We encourage anyone in our Discord Server to participate in our events and chat in our channels. They're a fun time and a great way to get to know everyone. [Click here](http://discord.gg/clashfiles) to join our Discord Community and view our calendar of events.  {{</ faq >}}
 
