@@ -1,7 +1,7 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
+title: Brick Oven Bulletin
+subtitle: ''
+description: Slices of CFF News
 draft: false
+
 ---
