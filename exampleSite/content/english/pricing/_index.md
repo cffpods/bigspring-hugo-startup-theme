@@ -5,8 +5,8 @@ description: 'We offer the following types of clans:'
 draft: false
 basic:
   name: Serious War
-  price: "$49"
-  price_per: month
+  price: Warmongers
+  price_per: ''
   info: For players who like to war hard and play hard
   services:
   - Express Service
