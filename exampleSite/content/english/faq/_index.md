@@ -1,11 +1,11 @@
 ---
 title: Frequently Asked Questions
 subtitle: ''
-description: This is meta description
+description: Almost everything you wanted to know about the CFF
 draft: false
 
 ---
-{{< faq "How did The Clash Files become a clan family?" >}} ​Several members originally came together to create The Clash Files podcast.​​ ​ {{</ faq >}}
+{{< faq "How did The Clash Files become a Clan Family?" >}} ​Six years ago, four Clashers came together to create The Clash Files Podcast.​​ As the podcast became more popular, our membership grew and our bonds were as tight as ever, so we created more clans to expand our family. Along the way we also held Clash of Clans and Clash Royale events, where we made some great friends - many of whom joined our clans with alt accounts! After playing in several Clash Scrims together and mingling in each other's chats for a long time, some of our Clash friends began to feel like family, so we invited them to join us. ​ {{</ faq >}}
 
 {{< faq "How does the clan family stay so organized?" >}}
 We use [Discord](https://discordapp.com/) to communicate outside of the game. Each family clan has its own server and everyone shares our community server. Our amazing group of leaders and coleaders chat frequently to keep up to date on how everyone is doing. Want to chat with us? [Click here](http://discord.gg/clashfiles).
