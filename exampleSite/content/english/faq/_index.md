@@ -9,7 +9,7 @@ draft: false
 
 {{< faq "Do I need to be a Clash Files Family member to play in your Clash Scrims?" >}} Not at all! We encourage anyone in our Discord Server to participate in our events and chat in our channels. They're a fun time and a great way to get to know everyone. [Click here](http://discord.gg/clashfiles) to join our Discord Community and view our calendar of events.  {{</ faq >}}
 
-{{< faq "How does the Clan Family stay so organized?"" >}} We use [Discord](https://discordapp.com/) to communicate outside of the game. Each family clan has its own server and everyone congregates to socialize in the Clash Files Server. Our amazing group of Leaders and Co-Leaders also chat frequently to keep up to date on how everyone is doing. Want to chat with us? [Click here](http://discord.gg/clashfiles) to join our Discord Community.  {{</ faq >}}
+{{< faq "How does the Clan Family stay so organized?" >}} We use [Discord](https://discordapp.com/) to communicate outside of the game. Each family clan has its own server and everyone congregates to socialize in the Clash Files Server. Our amazing group of Leaders and Co-Leaders also chat frequently to keep up to date on how everyone is doing. Want to chat with us? [Click here](http://discord.gg/clashfiles) to join our Discord Community.  {{</ faq >}}
 
 {{< faq "How do I get promoted to Elder or Co-Leader?" >}} Every lash FIles clan chooses their own method of promoting their members. In general though - Elder is often earned by being consistently active both in-game and in Discord, helping clanmates plan attacks, and by just being an all around fantastic member for an extended period of time.  {{</ faq >}}
 
