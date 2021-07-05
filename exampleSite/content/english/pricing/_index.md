@@ -5,9 +5,9 @@ description: 'We offer the following types of clans:'
 draft: false
 basic:
   name: Clash of Clans
-  price: Serious War
+  price: Relaxed War
   price_per: ''
-  info: We war hard and play hard
+  info: We war to win in a relaxed way
   services:
   - Express Service
   - Customs Clearance
