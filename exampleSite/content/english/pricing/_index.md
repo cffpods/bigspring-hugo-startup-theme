@@ -1,61 +1,58 @@
 ---
-title: "Pricing"
-subtitle: ""
-# meta description
-description: "This is meta description"
+title: Clans
+subtitle: ''
+description: 'We offer the following types of clans:'
 draft: false
-
 basic:
-  name : "Basic Plan"
+  name: Serious War
   price: "$49"
-  price_per : "month"
-  info : "Best For Small Individuals"
+  price_per: month
+  info: For players who like to war hard and play hard
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - Express Service
+  - Customs Clearance
+  - Time-Critical Services
   button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
-    
+    enable: true
+    label: Apply in Discord
+    link: https://discordgg/clashfiles
 professional:
-  name : "Professional Plan"
+  name: Professional Plan
   price: "$49"
-  price_per : "month"
-  info : "Best For Professionals"
+  price_per: month
+  info: Best For Professionals
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - Express Service
+  - Customs Clearance
+  - Time-Critical Services
+  - Cloud Service
+  - Best Dashboard
   button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
-    
+    enable: true
+    label: Get started for free
+    link: "#"
 business:
-  name : "Business Plan"
+  name: Business Plan
   price: "$49"
-  price_per : "month"
-  info : "Best For Large Individuals"
+  price_per: month
+  info: Best For Large Individuals
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - Express Service
+  - Customs Clearance
+  - Time-Critical Services
   button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
-
+    enable: true
+    label: Get started for free
+    link: "#"
 call_to_action:
-  enable : true
-  title : "Need a larger plan?"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  enable: true
+  title: Need a larger plan?
+  image: images/cta.svg
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+    eget amet, tempus eu at consecttur.
   button:
-    enable : true
-    label : "Contact Us"
-    link : "contact"
+    enable: true
+    label: Contact Us
+    link: contact
+
 ---
