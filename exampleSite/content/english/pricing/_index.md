@@ -17,10 +17,10 @@ basic:
     label: Apply in Discord
     link: https://discordgg/clashfiles
 professional:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  name: Clash of Clans
+  price: Clash of Clans
+  price_per: ''
+  info: We war hard and play hard
   services:
   - Express Service
   - Customs Clearance
