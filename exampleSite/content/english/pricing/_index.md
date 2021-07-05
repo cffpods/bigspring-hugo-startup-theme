@@ -18,7 +18,7 @@ basic:
     link: https://discordgg/clashfiles
 professional:
   name: Clash of Clans
-  price: Clash of Clans
+  price: Serious War
   price_per: ''
   info: We war hard and play hard
   services:
