@@ -5,26 +5,34 @@ description: Guidelines to follow
 draft: false
 
 ---
-#### Responsibility of Contributors
+#### 》No Hate Speech
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+Speech that offends, threatens, or insults groups, based on race, color, religion, national origin, sexual orientation, disability, or other traits will not be tolerated.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### 》No NSFW/Explicit Content
 
-#### Gathering of Personal Information
+This includes, but is not limited to: discussing sexual relations, sharing sexually explicit photos/videos/emails/texts, describing violent acts, or posting violently explicit (ie gore) photos/videos/emails/texts. Spoiler tagging explicit content is also not allowed.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### 》No Drama
 
-#### Protection of  Personal- Information
+Don't be a jerk. Don't start trouble. Respect others and please avoid discussing polarizing topics like politics and religion. All issues should be kept private and communicated with your Clan Leader in Direct Messages.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+#### 》Play Safe, Play Fair
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+Members should adhere to Supercell's [Terms of Service](https://supercell.com/en/terms-of-service/) and [Fair Play Rules](https://supercell.com/en/safe-and-fair-play/), and follow the policies of all games we play.
 
-#### Privacy Policy Changes
+#### 》Adhere to Discord Policies
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+Users are expected to follow Discord's [Terms of Service](https://discordapp.com/terms), [Guidelines](https://discordapp.com/guidelines), and [Code of Conduct](https://support.discord.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct).
+
+#### 》No Clan Recruiting, Server Inviting, Advertising, or Self-Promotion
+
+Clan recruiting, self promotion, & posts that advertise yourself are not welcome. Requests for money or donations are also not allowed.
+
+#### 》No Spam or Unsolicited Direct Messages (DMs)
+
+Posting the same thing in multiple places, repeated use of @, and attempts to @everyone are not permitted. Do not send a DM to someone unless they have asked you to.
+
+#### 》Rules Will Be Enforced & Updated As Needed
+
+We reserve the right to act on any behavior that is detrimental to the experience of other users. To maintain a friendly & mature environment, posts violating rules will be deleted & users breaking rules may be muted, warned, demoted, or banned.
