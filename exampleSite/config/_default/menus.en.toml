@@ -17,14 +17,14 @@ url = "#"
 name = "Features"
 url = "#"
 [[footer_right]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "FAQ"
+url = "faq"
 [[footer_right]]
 name = "Family Rules"
 url = "terms-conditions"
 [[footer_right]]
-name = "FAQ"
-url = "faq"
+name = "Privacy Policy"
+url = "privacy-policy"
 [[main]]
 name = "Home"
 url = "/"
