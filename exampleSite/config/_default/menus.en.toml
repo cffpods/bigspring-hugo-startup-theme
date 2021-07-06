@@ -38,10 +38,10 @@ name = "Clans"
 url = "pricing"
 weight = 3
 [[main]]
-name = "Support Us"
-url = "https://ko-fi.com/clash"
-weight = 4
-[[main]]
 name = "FAQ"
 url = "faq"
 weight = 5
+[[main]]
+name = "Support Us"
+url = "https://ko-fi.com/clash"
+weight = 4
