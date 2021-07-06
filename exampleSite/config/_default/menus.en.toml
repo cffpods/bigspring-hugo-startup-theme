@@ -5,7 +5,7 @@ url = "#"
 name = "Quick Start"
 url = "#"
 [[footer_left]]
-name = "Pricing"
+name = "Clans"
 url = "pricing"
 [[footer_middle]]
 name = "Pricing"
@@ -20,7 +20,7 @@ url = "#"
 name = "Privacy Policy"
 url = "privacy-policy"
 [[footer_right]]
-name = "Terms & Conditions"
+name = "Family Rules"
 url = "terms-conditions"
 [[footer_right]]
 name = "FAQ"
