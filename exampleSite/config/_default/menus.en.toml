@@ -34,7 +34,7 @@ name = "News"
 url = "blog"
 weight = 2
 [[main]]
-name = "Pricing"
+name = "Clans"
 url = "pricing"
 weight = 3
 [[main]]
