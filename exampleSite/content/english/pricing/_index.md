@@ -1,26 +1,26 @@
 ---
 title: Clans
 subtitle: ''
-description: 'We offer the following types of clans:'
+description: We offer the following types of clans
 draft: false
 basic:
-  name: Clash of Clans
-  price: Relaxed War
-  price_per: ''
-  info: We war to win in a relaxed way
+  name: Basic Plan
+  price: "$49"
+  price_per: month
+  info: Best For Small Individuals
   services:
   - Express Service
   - Customs Clearance
   - Time-Critical Services
   button:
     enable: true
-    label: Apply in Discord
-    link: https://discordgg/clashfiles
+    label: Get started for free
+    link: "#"
 professional:
-  name: Clash of Clans
-  price: Serious War
-  price_per: ''
-  info: We war hard and play hard
+  name: Professional Plan
+  price: "$49"
+  price_per: month
+  info: Best For Professionals
   services:
   - Express Service
   - Customs Clearance
@@ -32,10 +32,10 @@ professional:
     label: Get started for free
     link: "#"
 business:
-  name: Clash Royale
-  price: Casually Competitive
-  price_per: ''
-  info: Best For CR lovers
+  name: Business Plan
+  price: "$49"
+  price_per: month
+  info: Best For Large Individuals
   services:
   - Express Service
   - Customs Clearance
