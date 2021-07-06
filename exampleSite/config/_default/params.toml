@@ -17,6 +17,10 @@ link = "https://discord.gg/clashfiles"
 enable = false
 preloader = ""
 [[social]]
+icon = "fab fa-twitter"
+link = "https://twitter.com/theclashfiles"
+title = "twitter"
+[[social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCZSl_u5c1AMxeiRVpM8BdDg"
 title = "youtube"
@@ -28,7 +32,3 @@ title = "twitch"
 icon = "fab fa-facebook"
 link = "#"
 title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
