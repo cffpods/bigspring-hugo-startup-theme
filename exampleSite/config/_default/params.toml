@@ -1,8 +1,8 @@
 author = "Clash Podcast"
 contact_form_action = "#"
 description = "This is meta description"
-image = "/images/logo.png"
-logo = "/images/logo.png"
+image = ""
+logo = ""
 logo_width = "200px"
 [cookies]
 button = "I Accept"
