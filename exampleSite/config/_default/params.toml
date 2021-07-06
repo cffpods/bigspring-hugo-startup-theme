@@ -17,6 +17,10 @@ link = "https://discord.gg/clashfiles"
 enable = false
 preloader = ""
 [[social]]
+icon = "fab fa-twitch"
+link = "https://www.twitch.tv/clashfiles"
+title = "twitch"
+[[social]]
 icon = "fab fa-facebook"
 link = "#"
 title = "facebook"
