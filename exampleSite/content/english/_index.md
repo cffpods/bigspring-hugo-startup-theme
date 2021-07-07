@@ -1,6 +1,6 @@
 ---
 banner:
-  title: 'The Clash FIles: We love Clash of Clans and Clash Royale!'
+  title: 'The Clash Files: We love Clash of Clans and Clash Royale!'
   image: "/images/banner_img.png"
   content: 'We produce multiple Clash Podcasts, host exciting Clash Scrims, and provide
     a welcoming Discord Community. '
