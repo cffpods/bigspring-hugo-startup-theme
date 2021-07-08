@@ -37,9 +37,9 @@ business:
   price_per: ''
   info: We make war fun again.
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Legendary League
+  - Cards Level 9+
+  - Mature Adults
   button:
     enable: true
     label: Get started for free
