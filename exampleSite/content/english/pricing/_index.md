@@ -51,7 +51,7 @@ call_to_action:
   content: Come to our Discord server and find your clan today!
   button:
     enable: true
-    label: Contact Us
-    link: contact
+    label: Discord
+    link: https://discord.gg/clashfiles
 
 ---
