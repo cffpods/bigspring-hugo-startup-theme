@@ -18,9 +18,9 @@ basic:
     link: https://discord.gg/clashfiles
 professional:
   name: Clash of Clans
-  price: Serious War
+  price: Serious Warmongers
   price_per: ''
-  info: We war hard and play hard
+  info: We war hard and play hard.
   services:
   - Express Service
   - Customs Clearance
