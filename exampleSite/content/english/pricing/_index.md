@@ -5,7 +5,7 @@ description: 'We offer the following types of clans:'
 draft: false
 basic:
   name: Clash of Clans
-  price: Relaxed War
+  price: Relaxed Gameplay
   price_per: ''
   info: We war to win in a relaxed way
   services:
