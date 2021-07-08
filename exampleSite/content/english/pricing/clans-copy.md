@@ -1,5 +1,5 @@
 ---
-title: Clans-(copy)
+title: Clans2
 subtitle: ''
 description: We offer the following types of clans
 draft: false
