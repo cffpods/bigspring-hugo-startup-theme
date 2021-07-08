@@ -27,8 +27,8 @@ professional:
   - Adults Only
   button:
     enable: true
-    label: 8 Competitive Clans
-    link: "#"
+    label: Apply in Discord
+    link: https://discord.gg/clashfiles
 business:
   name: Clash Royale
   price: Casually Competitive
