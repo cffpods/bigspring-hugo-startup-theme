@@ -37,7 +37,8 @@ business:
   price_per: ''
   info: We make war fun again.
   services:
-  - Legendary League
+  - Two Clan Options
+  - Legendary & Gold League
   - Cards Level 9+
   - Mature Adults
   button:
