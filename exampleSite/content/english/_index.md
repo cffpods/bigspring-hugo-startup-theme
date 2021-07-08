@@ -53,7 +53,7 @@ service:
       link: "#"
   - title: It is a privately owned Information and cyber security company
     images:
-    - images/service-1.png
+    - "/images/messaging-amico.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
@@ -65,7 +65,7 @@ service:
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
     images:
-    - images/service-2.png
+    - "/images/radio.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
@@ -77,7 +77,7 @@ service:
       link: "#"
   - title: A company standing different from others
     images:
-    - images/service-3.png
+    - "/images/remote-team-rafiki.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
