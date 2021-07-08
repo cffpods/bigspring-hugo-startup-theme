@@ -47,7 +47,7 @@ business:
 call_to_action:
   enable: true
   title: Ready to play?
-  image: images/cta.svg
+  image: "/images/discord_partner_full_logo_lockup_primary_blurple_rgb.svg"
   content: Join our Discord server and find your clan today!
   button:
     enable: true
