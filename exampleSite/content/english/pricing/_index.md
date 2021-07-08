@@ -15,7 +15,7 @@ basic:
   button:
     enable: true
     label: Apply in Discord
-    link: https://discordgg/clashfiles
+    link: https://discord.gg/clashfiles
 professional:
   name: Clash of Clans
   price: Serious War
