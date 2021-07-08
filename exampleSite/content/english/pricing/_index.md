@@ -9,9 +9,9 @@ basic:
   price_per: ''
   info: We war to win but are chill about it.
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Five Clan Options
+  - 'All Town Halls '
+  - Adults 18+
   button:
     enable: true
     label: Apply in Discord
