@@ -7,7 +7,7 @@ basic:
   name: Clash of Clans
   price: Relaxed Gameplay
   price_per: ''
-  info: We war to win in a relaxed way
+  info: We war to win but are chill about it.
   services:
   - Express Service
   - Customs Clearance
