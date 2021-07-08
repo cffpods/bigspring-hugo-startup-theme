@@ -41,8 +41,8 @@ business:
   - Mature Adults
   button:
     enable: true
-    label: Get started for free
-    link: "#"
+    label: Apply in Discord
+    link: https://discord.gg/clashfiles
 call_to_action:
   enable: true
   title: Ready to join us?
