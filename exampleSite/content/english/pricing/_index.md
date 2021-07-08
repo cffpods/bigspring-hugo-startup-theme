@@ -35,7 +35,7 @@ business:
   name: Clash Royale
   price: Casually Competitive
   price_per: ''
-  info: Best For CR lovers
+  info: We make war fun again.
   services:
   - Express Service
   - Customs Clearance
