@@ -14,7 +14,7 @@ basic:
   - Adults 18+
   button:
     enable: true
-    label: 5 Relaxed Clans
+    label: Apply in Discord
     link: https://discord.gg/clashfiles
 professional:
   name: Clash of Clans
