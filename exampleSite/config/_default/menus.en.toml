@@ -1,4 +1,7 @@
 [[footer_left]]
+name = "Pineapples & Thorns"
+url = ""
+[[footer_left]]
 name = "About Us"
 url = "#"
 [[footer_left]]
@@ -8,20 +11,11 @@ url = "#"
 name = "Clans"
 url = "pricing"
 [[footer_middle]]
-name = "Clash Royale"
-url = ""
-[[footer_middle]]
 name = "Clash of Clans"
 url = ""
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
-[[footer_middle]]
-name = "Platform"
-url = "#"
-[[footer_middle]]
-name = "Features"
-url = "#"
+name = "Clash Royale"
+url = ""
 [[footer_right]]
 name = "Family Rules"
 url = "terms-conditions"
