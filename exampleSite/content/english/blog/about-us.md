@@ -1,6 +1,6 @@
 ---
 title: About Us
-date: 2021-07-09T17:07:21-04:00
+date: 2021-07-09T17:07:21.000-04:00
 image: "/images/welcome-footer.png"
 type: regular
 description: This is meta description
@@ -35,9 +35,9 @@ Here is example of hedings. You can use this heading by following markdownify ru
 
 <hr>
 
-##### M2C
+##### M2C Spotify
 
-<iframe src="[https://open.spotify.com/embed/show/3op1fQ1sYGNufesaWWOu90](https://open.spotify.com/embed/show/3op1fQ1sYGNufesaWWOu90 "https://open.spotify.com/embed/show/3op1fQ1sYGNufesaWWOu90")" width="100%" height="232" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+{{< spotify [show/3op1fQ1sYGNufesaWWOu90](https://open.spotify.com/embed/show/3op1fQ1sYGNufesaWWOu90 "https://open.spotify.com/embed/show/3op1fQ1sYGNufesaWWOu90") >}}
 
 <hr>
 
