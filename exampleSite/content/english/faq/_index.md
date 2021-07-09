@@ -13,7 +13,7 @@ draft: false
 
 {{< faq "How does the Clan Family stay so organized?" >}} **We use** [**Discord**](https://discordapp.com/) **to communicate outside of the game.** Each family clan has its own server and everyone congregates to socialize in the Clash Files Server. Our amazing group of Leaders and Co-Leaders also chat frequently to keep up to date on how everyone is doing. Want to chat with us? [Click here](http://discord.gg/clashfiles) to join our Discord Community.  {{</ faq >}}
 
-{{< faq "Is The Clash Files a clan alliance?" >}} ​**In short, no. We are very proud to be a close knit clan _FAMILY_.**
+{{< faq "Is The Clash Files a clan alliance?" >}} ​**In short, no. We are very proud to be a close knit Clan _FAMILY_.**
 
 Six years ago, four Clashers came together to create The Clash Files Podcast.​​ As the podcast became more popular, our membership grew so we created more clans to expand. Along the way we also began holding Clash of Clans and Clash Royale events, where we made some great friends - many of whom joined our clans with alt accounts! After teaming up in several Clash Scrims and socializing together in our chats for a long time, some of our Clash friends began to feel like family, so we invited them to join us. ​ {{</ faq >}}
 
