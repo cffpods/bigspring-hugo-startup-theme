@@ -6,6 +6,7 @@ draft: false
 basic:
   name: Clash of Clans
   price: Relaxed Gameplay
+  price_per: ''
   info: We war to win but are chill about it.
   services:
   - Five Clan Options
@@ -18,6 +19,7 @@ basic:
 professional:
   name: Clash of Clans
   price: Serious Warmongers
+  price_per: ''
   info: We war hard and play hard.
   services:
   - Eight Clan Options
@@ -30,6 +32,7 @@ professional:
 business:
   name: Clash Royale
   price: Casually Competitive
+  price_per: ''
   info: We make war fun again.
   services:
   - Two Clan Options
