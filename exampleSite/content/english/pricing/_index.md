@@ -1,5 +1,5 @@
 ---
-title: Clans
+title: Our Clans
 subtitle: ''
 description: 'We offer the following types of clans:'
 draft: false
