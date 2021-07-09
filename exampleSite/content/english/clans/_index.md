@@ -1,17 +1,53 @@
 ---
-title: Clans
+title: Our Clans
 subtitle: ''
-description: ''
+description: 'We offer the following types of clans:'
+draft: false
+basic:
+  name: Clash of Clans
+  price: Relaxed Gameplay
+  info: We war to win but are chill about it.
+  services:
+  - Five Clan Options
+  - 'All Town Halls '
+  - Adults 18+
+  button:
+    enable: true
+    label: Apply in Discord
+    link: https://discord.gg/clashfiles
+professional:
+  name: Clash of Clans
+  price: Serious Warmongers
+  info: We war hard and play hard.
+  services:
+  - Eight Clan Options
+  - Town Halls 7+
+  - Adults Only
+  button:
+    enable: true
+    label: Apply in Discord
+    link: https://discord.gg/clashfiles
+business:
+  name: Clash Royale
+  price: Casually Competitive
+  info: We make war fun again.
+  services:
+  - Two Clan Options
+  - Legendary & Gold League
+  - Cards Level 9+
+  - Mature Adults
+  button:
+    enable: true
+    label: Apply in Discord
+    link: https://discord.gg/clashfiles
+call_to_action:
+  enable: true
+  title: Ready to join us?
+  image: "/images/discord_partner_full_logo_lockup_primary_black_rgb.svg"
+  content: Come to our Discord server and find your clan today!
+  button:
+    enable: true
+    label: Discord
+    link: https://discord.gg/clashfiles
 
 ---
-{{< faq "Clash of Clans: Relaxed Gameplay" >}} Lorem, [link](https://examplesite.com) _ipsum_ dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima! {{</ faq >}}
-
-{{< faq "Clash of Clans: Competitive War" >}} Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima! {{</ faq >}}
-
-{{< faq "Clash Royale: War For Fun" >}} CFF Deep Dish: Legendary League, Cards Level 9+, Adults 18+ {{</ faq >}}
-
-{{< faq "Clash Royale: Casual Gameplay" >}} Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima! {{</ faq >}}
-
-{{< faq "Clash Royale: War For Fun" >}} CFF Deep Dish: Legendary League, Cards Level 9+, Adults 18+ {{</ faq >}}
-
-{{< faq "Clash Royale: Casual Gameplay" >}} Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima! {{</ faq >}}
