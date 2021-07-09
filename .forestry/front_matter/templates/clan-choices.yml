@@ -15,24 +15,21 @@ fields:
   name: draft
   label: draft
 - type: field_group
-  name: basic
-  label: basic
+  name: relaxed
+  label: relaxed
   fields:
   - type: text
     name: name
     label: name
   - type: text
-    name: price
-    label: price
+    name: style
+    label: style
   - type: text
-    name: price_per
-    label: price_per
-  - type: text
-    name: info
-    label: info
+    name: tagline
+    label: tagline
   - type: list
-    name: services
-    label: services
+    name: bulletpoints
+    label: bulletpoints
   - type: field_group
     name: button
     label: button
@@ -47,24 +44,21 @@ fields:
       name: link
       label: link
 - type: field_group
-  name: professional
-  label: professional
+  name: competitive
+  label: competitive
   fields:
   - type: text
     name: name
     label: name
   - type: text
-    name: price
-    label: price
+    name: style
+    label: style
   - type: text
-    name: price_per
-    label: price_per
-  - type: text
-    name: info
-    label: info
+    name: tagline
+    label: tagline
   - type: list
-    name: services
-    label: services
+    name: bulletpoints
+    label: bulletpoints
   - type: field_group
     name: button
     label: button
@@ -79,24 +73,21 @@ fields:
       name: link
       label: link
 - type: field_group
-  name: business
-  label: business
+  name: royale
+  label: royale
   fields:
   - type: text
     name: name
     label: name
   - type: text
-    name: price
-    label: price
+    name: style
+    label: style
   - type: text
-    name: price_per
-    label: price_per
-  - type: text
-    name: info
-    label: info
+    name: tagline
+    label: tagline
   - type: list
-    name: services
-    label: services
+    name: bulletpoints
+    label: bulletpoints
   - type: field_group
     name: button
     label: button
