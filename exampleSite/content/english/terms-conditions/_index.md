@@ -1,7 +1,7 @@
 ---
-title: Family Rules
+title: Terms & Guidelines
 subtitle: ''
-description: Guidelines to follow
+description: ''
 draft: false
 
 ---
