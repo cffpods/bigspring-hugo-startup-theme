@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: 2021-07-09T17:07:21.000-04:00
-image: "/images/welcome-footer.png"
+image: "/images/banner_img.png"
 type: regular
 description: This is meta description
 draft: false
