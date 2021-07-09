@@ -37,7 +37,7 @@ Here is example of hedings. You can use this heading by following markdownify ru
 
 ##### M2C Spotify
 
-{{< spotify playlist 2sYY7IpPjgCnjctzOY5zIW >}}
+{{< spotify show 3op1fQ1sYGNufesaWWOu90 >}}
 
 <hr>
 
