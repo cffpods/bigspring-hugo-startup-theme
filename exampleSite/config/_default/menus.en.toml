@@ -4,15 +4,6 @@ url = ""
 [[footer_left]]
 name = "Pineapples & Thorns"
 url = ""
-[[footer_left]]
-name = "About Us"
-url = "#"
-[[footer_left]]
-name = "Quick Start"
-url = "#"
-[[footer_left]]
-name = "Clans"
-url = "pricing"
 [[footer_middle]]
 name = "Clash of Clans"
 url = ""
@@ -25,6 +16,10 @@ url = "terms-conditions"
 [[footer_right]]
 name = "FAQ"
 url = "faq"
+[[main]]
+name = "Clans"
+url = ""
+weight = "3"
 [[main]]
 name = "Home"
 url = "/"
