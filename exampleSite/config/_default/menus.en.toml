@@ -17,7 +17,7 @@ url = "terms-conditions"
 name = "Membership Terms"
 url = "terms-conditions"
 [[footer_right]]
-name = "FAQ"
+name = "FAQs"
 url = "faq"
 [[main]]
 name = "Home"
