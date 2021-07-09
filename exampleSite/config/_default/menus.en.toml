@@ -11,16 +11,10 @@ url = ""
 name = "Clash Royale"
 url = ""
 [[footer_right]]
-name = "FAQ"
-url = "faq"
-[[footer_right]]
 name = "Terms/Rules"
 url = "terms-conditions"
 [[footer_right]]
-name = "Membership Terms"
-url = "terms-conditions"
-[[footer_right]]
-name = "FAQs"
+name = "FAQ"
 url = "faq"
 [[main]]
 name = "Home"
