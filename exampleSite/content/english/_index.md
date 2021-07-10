@@ -75,7 +75,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: In Clash you can love the game AND love the player
+  - title: In The Clash Files Family you'll love the game AND love the players
     images:
     - "/images/phone-game.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
