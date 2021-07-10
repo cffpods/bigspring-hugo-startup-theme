@@ -18,7 +18,7 @@ feature:
   - name: Scrims & Events
     icon: fas fa-trophy
     content: We always have an event running because gaming is more fun with friends!
-  - name: 15+ Clans
+  - name: 10+ Clans
     icon: fas fa-chess-rook
     content: Our Clash & Royale clans are full of players who are mature, active,
       & fun.
@@ -61,11 +61,11 @@ service:
       consquat.
     button:
       enable: true
-      label: Check it out
+      label: Check them out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: We're constantly hosting fun events and particpate in multiple community leagues
     images:
-    - "/images/radio-crop.png"
+    - "/images/trophy.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
@@ -75,9 +75,9 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: In Clash you can love the game AND love the player
     images:
-    - "/images/remote-team-rafiki.png"
+    - "/images/phone-game.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
