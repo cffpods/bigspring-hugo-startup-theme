@@ -53,7 +53,7 @@ service:
       link: "#"
   - title: It is a privately owned Information and cyber security company
     images:
-    - "/images/messaging-amico.png"
+    - "/images/castle.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
