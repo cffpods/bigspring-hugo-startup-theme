@@ -31,7 +31,7 @@ weight = "3"
 [[main]]
 name = "Clans"
 url = ""
-weight = "3"
+weight = "4"
 [[main]]
 name = "FAQ"
 url = "faq"
