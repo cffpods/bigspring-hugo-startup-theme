@@ -54,10 +54,10 @@ service:
   - title:  We offer 10+ clans in Clash of Clans and Clash Royale
     images:
     - "/images/castle.png"
-    content: Our Clash & Royale clans are full of players who are mature, active, & fun.
+    content: And ALL of them are full of players who are mature, active, & fun.
     button:
       enable: true
-      label: Find your CFF clan
+      label: Find your new clan
       link: "#"
   - title: We constantly host fun events and particpate in multiple community leagues
     images:
@@ -70,7 +70,7 @@ service:
   - title: In The Clash Files Family you'll love the game AND love the players
     images:
     - "/images/phone-game.png"
-    content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years!
+    content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years.
     button:
       enable: true
       label: Find out why
