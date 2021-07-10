@@ -17,6 +17,10 @@ url = "faq"
 name = "Terms/Rules"
 url = "terms-conditions"
 [[main]]
+name = "Podcasts"
+url = "#"
+weight = ""
+[[main]]
 name = "Home"
 url = "/"
 weight = 1
