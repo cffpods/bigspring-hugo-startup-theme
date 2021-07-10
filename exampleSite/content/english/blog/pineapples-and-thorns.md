@@ -1,7 +1,7 @@
 ---
 title: Pineapples and Thorns
 date: 2021-07-09T19:47:21-04:00
-image: "/images/patep11spot.png"
+image: "/images/pat-wide.jpg"
 type: regular
 description: ''
 draft: false
