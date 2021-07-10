@@ -1,9 +1,9 @@
 ---
 title: Pineapples and Thorns
 date: 2021-07-09T19:47:21-04:00
-image: "/images/pineapplesandthorns-588.png"
+image: "/images/patep11spot.png"
 type: regular
-description: This is meta description
+description: ''
 draft: false
 
 ---
