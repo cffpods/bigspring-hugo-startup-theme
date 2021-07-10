@@ -54,11 +54,7 @@ service:
   - title:  We offer 10+ clans in Clash of Clans and Clash Royale
     images:
     - "/images/castle.png"
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Our Clash & Royale clans are full of players who are mature, active, & fun.
     button:
       enable: true
       label: Check them out
@@ -66,11 +62,7 @@ service:
   - title: We constantly host fun events and particpate in multiple community leagues
     images:
     - "/images/trophy.png"
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: We always have something going on because gaming is more fun with friends!
     button:
       enable: true
       label: Check it out
@@ -78,11 +70,7 @@ service:
   - title: In The Clash Files Family you'll love the game AND love the players
     images:
     - "/images/phone-game.png"
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years!
     button:
       enable: true
       label: Check it out
