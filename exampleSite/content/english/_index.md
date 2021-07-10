@@ -57,7 +57,7 @@ service:
     content: Our Clash & Royale clans are full of players who are mature, active, & fun.
     button:
       enable: true
-      label: Check them out
+      label: Find your CFF clan
       link: "#"
   - title: We constantly host fun events and particpate in multiple community leagues
     images:
@@ -65,7 +65,7 @@ service:
     content: We always have something going on because gaming is more fun with friends!
     button:
       enable: true
-      label: Check it out
+      label: Check them out
       link: "#"
   - title: In The Clash Files Family you'll love the game AND love the players
     images:
@@ -73,7 +73,7 @@ service:
     content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years!
     button:
       enable: true
-      label: Check it out
+      label: Find out why
       link: "#"
 screenshot:
   enable: true
