@@ -17,10 +17,6 @@ url = "faq"
 name = "Terms/Rules"
 url = "terms-conditions"
 [[main]]
-name = "Podcasts"
-url = "#"
-weight = ""
-[[main]]
 name = "Home"
 url = "/"
 weight = 1
@@ -28,6 +24,10 @@ weight = 1
 name = "News"
 url = "blog"
 weight = 2
+[[main]]
+name = "Podcasts"
+url = "#"
+weight = ""
 [[main]]
 name = "Clans"
 url = ""
