@@ -1,7 +1,7 @@
 ---
 title: Married 2 Clash
-date: 2021-07-09T20:12:21-04:00
-image: "/images/cover-art-crop.jpg"
+date: 2021-07-09T20:12:21.000-04:00
+image: "/images/cover-art-1080.jpg"
 type: regular
 description: ''
 draft: false
