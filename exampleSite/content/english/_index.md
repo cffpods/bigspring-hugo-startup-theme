@@ -51,7 +51,7 @@ service:
       enable: true
       label: Check them out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title:  We offer 10+ clans in Clash of Clans and Clash Royale
     images:
     - "/images/castle.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
