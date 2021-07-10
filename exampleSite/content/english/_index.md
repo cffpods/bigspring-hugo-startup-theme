@@ -63,7 +63,7 @@ service:
       enable: true
       label: Check them out
       link: "#"
-  - title: We're constantly hosting fun events and particpate in multiple community leagues
+  - title: We constantly host fun events and particpate in multiple community leagues
     images:
     - "/images/trophy.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
