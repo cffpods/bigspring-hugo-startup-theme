@@ -151,7 +151,8 @@ feature_item:
   * "/images/1400tcf.jpg"
   * "/images/mwc.jpg"
   * "/images/kgh-588.png" content: 'Our two most recent shows, Pineapples & Thorns and Married 2 Clash, are the spiritual successors of our three previous podcasts: The Clash Files, Kent Greenhouse, and Married with Clash.' button: enable: true label: Check them out link: "#"
-* title: It is a privately owned Information and cyber security company
+* title: We offer 10+ clans in Clash of Clans and Clash Royale
+
   images:
   * "/images//images/castle.png"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
