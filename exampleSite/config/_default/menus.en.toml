@@ -27,7 +27,7 @@ weight = 2
 [[main]]
 name = "Podcasts"
 url = "#"
-weight = ""
+weight = "3"
 [[main]]
 name = "Clans"
 url = ""
