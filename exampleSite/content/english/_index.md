@@ -42,9 +42,9 @@ service:
     - "/images/pineapplesandthorns-588.png"
     - "/images/m2c-588.jpg"
     - "/images/1400tcf.jpg"
-    - "/images/mwc.jpg"
     - "/images/kgh-588.png"
-    content: 'Our two most recent shows, Pineapple & Thorns and Married 2 Clash, are
+    - "/images/mwc.jpg"
+    content: 'Our two most recent shows, Pineapples & Thorns and Married 2 Clash, are
       the spiritual successors of our three previous podcasts: The Clash Files, Kent
       Greenhouse, and Married with Clash.'
     button:
