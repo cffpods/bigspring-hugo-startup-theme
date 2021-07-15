@@ -32,7 +32,7 @@ feature:
       & more.
   - name: Discord Community
     icon: fas fa-user-friends
-    content: We have been Discord-Partnered since January 2016!
+    content: We have been a Discord-Partnered community since January 2016!
 service:
   enable: true
   service_item:
