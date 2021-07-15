@@ -32,7 +32,7 @@ feature:
       & more.
   - name: Discord Community
     icon: fas fa-user-friends
-    content: We've been a relaxed, clashy, pizza-loving clan family for over six years!
+    content: We have been Discord-Partnered since January 2016!
 service:
   enable: true
   service_item:
