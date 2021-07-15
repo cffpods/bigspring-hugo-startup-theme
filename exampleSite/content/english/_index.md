@@ -77,7 +77,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> Clash Community
+  title: Discover the Best <br> Clash Community
   image: "/images/base5.png"
 call_to_action:
   enable: true
