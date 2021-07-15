@@ -54,7 +54,7 @@ call_to_action:
     link: https://discord.gg/clashfiles
 
 ---
-{{< faq "Do I need to be a Clash Files Family member to play in your Clash Scrims?" >}} Not at all! You don't need a special role or position to hang out with us and enjoy our events. You just need to sign up! Anyone in our Discord Server can participate in our events and chat in our channels. They're really fun and a great way to get to know everyone. [Click here](http://discord.gg/clashfiles) to join our Discord Community and view our calendar of events.  {{</ faq >}}
+{{< faq "Do I need to be a Clash Files Family member to play in your Clash Scrims?" >}} Anyone in our Discord Server can participate in our events and chat in our channels. You don't need a special role or position. You just need to sign up! Clash Scrims are really fun and a great way to get to know everyone. [Click here](http://discord.gg/clashfiles) to join our Discord Community and view our calendar of events.  {{</ faq >}}
 
 {{< faq "But what if I want to join a Clash Files clan? How do I do that?" >}} Every Clash Files clan chooses their own method of promoting their members. In general though - Elders are consistently active both in-game and in Discord, attack on time, help clanmates plan attacks, and are just all around fantastic members for an extended period of time. Co-Leaders have been outstanding Elders for a long time and have earned the clan leadership's trust.  {{</ faq >}}
 
