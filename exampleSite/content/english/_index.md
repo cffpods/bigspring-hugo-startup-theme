@@ -59,7 +59,7 @@ service:
       enable: true
       label: Find your new clan
       link: "#"
-  - title: We constantly host fun events and particpate in multiple community leagues
+  - title: We constantly host fun events and participate in multiple community leagues
     images:
     - "/images/trophy.png"
     content: We always have something going on because gaming is more fun with friends!
