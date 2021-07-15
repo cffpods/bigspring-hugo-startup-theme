@@ -5,7 +5,7 @@ description: Almost everything you wanted to know about the CFF
 draft: false
 
 ---
-{{< faq "Do I need to be a Clash Files Family member to play in your Clash Scrims?" >}} **You don't need a special role or position to hang out with us and enjoy our events. You just need to sign up!** Anyone in our Discord Server can participate in our events and chat in our channels. They're really fun and a great way to get to know everyone. [Click here](http://discord.gg/clashfiles) to join our Discord Community and view our calendar of events.  {{</ faq >}}
+{{< faq "Do I need to be a Clash Files Family member to play in your Clash Scrims?" >}} **Anyone in our Discord Server can participate in our events and chat in our channels.** You don't need a special role or position to join the fun. You just need to sign up! Clash Scrims are a blast and a great way to get to know everyone. [Click here](http://discord.gg/clashfiles) to join our Discord Community and view our calendar of events.  {{</ faq >}}
 
 {{< faq "But what if I want to join a Clash Files clan? How do I do that?" >}} **All requests to join must be made in our** [**Discord server**](http://discord.gg/clashfiles)**, which has the most up-to-date information about our currently recruiting clans.** There you can ask for help finding the best fit or use bot codes to narrow your search to Town Halls accepted, gameplay style, or clan name. Once you find a clan you like, its recruiters will chat privately with you to give you the current password to use when you request in-game.{{</ faq >}}
 
