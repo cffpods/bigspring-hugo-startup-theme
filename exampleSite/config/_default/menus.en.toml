@@ -17,14 +17,14 @@ url = ""
 name = "Brick Oven Bulletin"
 url = "blog"
 [[footer_right]]
-name = "Clash Scrims"
-url = "scrims"
-[[footer_right]]
 name = "Frequently Asked"
 url = "faq"
 [[footer_right]]
 name = "Terms/Rules"
 url = "terms-conditions"
+[[footer_right]]
+name = "Support Us"
+url = "https://ko-fi.com/clash"
 [[main]]
 name = "Home"
 url = "/"
