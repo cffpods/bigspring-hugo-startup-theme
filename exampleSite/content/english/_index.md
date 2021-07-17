@@ -50,7 +50,7 @@ service:
     button:
       enable: true
       label: Check them out
-      link: "#"
+      link: "podcasts"
   - title: We offer 10+ clans in Clash of Clans and Clash Royale
     images:
     - "/images/castle.png"
@@ -58,7 +58,7 @@ service:
     button:
       enable: true
       label: Find your new clan
-      link: "#"
+      link: "clans"
   - title: We constantly host fun events and participate in multiple community leagues
     images:
     - "/images/trophy.png"
@@ -66,7 +66,7 @@ service:
     button:
       enable: true
       label: Check them out
-      link: "#"
+      link: "scrims"
   - title: In The Clash Files Family you'll love the game AND love the players
     images:
     - "/images/phone-game.png"
