@@ -26,7 +26,7 @@ url = "blog"
 weight = 2
 [[main]]
 name = "Podcasts"
-url = ""
+url = "podcasts"
 weight = "3"
 [[main]]
 name = "Clans"
