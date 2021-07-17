@@ -30,7 +30,7 @@ url = "podcasts"
 weight = "3"
 [[main]]
 name = "Clans"
-url = ""
+url = "clans"
 weight = "4"
 [[main]]
 name = "FAQ"
