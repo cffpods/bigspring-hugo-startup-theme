@@ -11,6 +11,9 @@ url = ""
 name = "Clash Royale"
 url = ""
 [[footer_right]]
+name = "Clash Scrims"
+url = "scrims"
+[[footer_right]]
 name = "Frequently Asked"
 url = "faq"
 [[footer_right]]
