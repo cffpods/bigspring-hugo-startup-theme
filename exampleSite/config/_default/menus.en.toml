@@ -4,6 +4,9 @@ url = "blog/married-2-clash/"
 [[footer_left]]
 name = "Pineapples & Thorns"
 url = "blog/pineapples-and-thorns/"
+[[footer_left]]
+name = "Frequently Asked"
+url = "faq"
 [[footer_middle]]
 name = "Clash of Clans"
 url = ""
