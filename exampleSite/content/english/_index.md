@@ -74,7 +74,7 @@ service:
     button:
       enable: true
       label: Find out why
-      link: "#"
+      link: "faq"
 screenshot:
   enable: true
   title: Discover the Best <br> Clash Community
