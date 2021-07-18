@@ -1,13 +1,4 @@
 ---
-banner:
-  title: We love Clash of Clans and Clash Royale!
-  image: "/images/cff_server_splash_image.png"
-  content: 'We produce multiple Clash Podcasts, host exciting Clash Scrims, and provide
-    a welcoming Discord Community. '
-  button:
-    enable: false
-    label: Contact With Us
-    link: contact
 feature:
   enable: true
   title: About Us
