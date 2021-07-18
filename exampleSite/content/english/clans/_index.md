@@ -92,3 +92,52 @@ call_to_action:
 title: Our Clans
 
 ---
+feature:
+
+  enable: true
+
+  title: About Us
+
+  feature_item:
+
+  - name: Clash Podcasts
+
+    icon: fas fa-microphone-alt
+
+    content: We cover wars, pushing, farming, leagues, clan management & more.
+
+  - name: Scrims & Events
+
+    icon: fas fa-trophy
+
+    content: We always have an event running because gaming is more fun with friends!
+
+  - name: 10+ Clans
+
+    icon: fas fa-chess-rook
+
+    content: Our Clash & Royale clans are full of players who are mature, active,
+
+      & fun.
+
+  - name: Leagues & eSports
+
+    icon: fas fa-medal
+
+    content: 'We participate in potluck wars, community-made leagues, and eSports
+
+      tournaments. '
+
+  - name: Gameplay Development
+
+    icon: fas fa-gamepad
+
+    content: We teach war skills like base building, base identification, scouting,
+
+      & more.
+
+  - name: Discord Community
+
+    icon: fas fa-user-friends
+
+    content: We have been a Discord-Partnered community since January 2016!
