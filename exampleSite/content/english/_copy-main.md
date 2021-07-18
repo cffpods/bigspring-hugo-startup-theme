@@ -89,7 +89,7 @@ call_to_action:
     enable: true
     label: Discord
     link: https://discord.gg/clashfiles
-title: Copy Main
+title: ''
 
 ---
 ***
