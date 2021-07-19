@@ -36,7 +36,6 @@ business:
   info: We keep our gameplay relaxed.
   services:
   - Two Clan Options
-  - Legendary League
   - Cards Level 9+
   - Mature Adults
   button:
