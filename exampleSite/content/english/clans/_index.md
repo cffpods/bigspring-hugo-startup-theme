@@ -5,9 +5,9 @@ description: 'We offer the following types of clans:'
 draft: false
 basic:
   name: Clash of Clans
-  price: Relaxed Gameplay
+  price: Laid-Back Attackers
   price_per: ''
-  info: We war to win but are chill about it.
+  info: We like to win and have fun.
   services:
   - Five Clan Options
   - 'All Town Halls '
@@ -31,9 +31,9 @@ professional:
     link: https://discord.gg/clashfiles
 business:
   name: Clash Royale
-  price: Casually Competitive
+  price: Casual Competitors
   price_per: ''
-  info: We make war fun again.
+  info: We keep our gameplay relaxed.
   services:
   - Two Clan Options
   - Legendary & Gold League
@@ -41,7 +41,7 @@ business:
   - Mature Adults
   button:
     enable: true
-    label: Apply in Discord
+    label: Royale Clans
     link: https://discord.gg/clashfiles
 call_to_action:
   enable: true
