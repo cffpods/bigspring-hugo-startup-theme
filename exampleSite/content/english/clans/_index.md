@@ -14,7 +14,7 @@ basic:
   - Adults 18+
   button:
     enable: true
-    label: Apply in Discord
+    label: Laid-Back Clans
     link: https://discord.gg/clashfiles
 professional:
   name: Clash of Clans
@@ -27,7 +27,7 @@ professional:
   - Adults Only
   button:
     enable: true
-    label: Apply in Discord
+    label: Serious Clans
     link: https://discord.gg/clashfiles
 business:
   name: Clash Royale
