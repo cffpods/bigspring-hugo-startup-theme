@@ -14,7 +14,7 @@ basic:
   - Adults 18+
   button:
     enable: true
-    label: Find Your CoC Clan
+    label: Find Your Clan
     link: https://discord.gg/clashfiles
 professional:
   name: Clash of Clans
@@ -27,7 +27,7 @@ professional:
   - Adults Only
   button:
     enable: true
-    label: Find Your CoC Clan
+    label: Find Your Clan
     link: https://discord.gg/clashfiles
 business:
   name: Clash Royale
@@ -40,7 +40,7 @@ business:
   - Mature Adults
   button:
     enable: true
-    label: Find Your CR Clan
+    label: Find Your Clan
     link: https://discord.gg/clashfiles
 call_to_action:
   enable: true
