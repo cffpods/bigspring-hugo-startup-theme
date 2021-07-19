@@ -1,7 +1,7 @@
 ---
-title: Frequently Asked Questions
+title: 'Clash of Clans: Laid-Back Clans'
 subtitle: ''
-description: Almost everything you wanted to know about the CFF
+description: We like to win and have fun.
 draft: false
 
 ---
