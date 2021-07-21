@@ -15,8 +15,8 @@ draft: false
 
 {{< clan "🏰 London: Adults 18+, TH12+" >}} We take SCCWL very seriously but take a more laid-back approach to random spins. {{</ clan >}}
 
-{{< clan "Noble Hero: Adults 21+, TH12+" >}} We are a fun adults who are passionate about war and believe heroes play for the good of the clan. {{</ clan >}}
+{{< clan "🛡️ Noble Hero: Adults 21+, TH12+" >}} We are a fun adults who are passionate about war and believe heroes play for the good of the clan. {{</ clan >}}
 
-{{< clan "Phantom Zone 2: Adults 21+, TH10+" >}} We are super laid back, mature adults. {{</ clan >}}
+{{< clan "🥀 RedThorn: Adults 18+, TH12+" >}} We offer a social environment. You'll often find us in voice chat shooting the breeze while listening to tunes. {{</ clan >}}
 
-{{< clan "Phantom Zone 2: Adults 21+, TH10+" >}} We are super laid back, mature adults. {{</ clan >}}
+{{< clan "🀄 Sadudulur: Adults 18+, TH9-11" >}} We want out members to take part in as many war spins as possible. Most members are in GMT & BST Timezones. {{</ clan >}}
