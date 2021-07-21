@@ -1,11 +1,4 @@
 ---
-banner:
-  title: Clash of Clans
-  content: 'Our playstyles range from relaxed to competitive.'
-  button:
-    enable: false
-    label: Discord
-    link: https://discord.gg/clashfiles
 feature:
   enable: true
   title: Laid-Back Clans
