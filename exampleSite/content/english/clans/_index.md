@@ -15,7 +15,7 @@ basic:
   button:
     enable: true
     label: Find Your Clan
-    link: https://discord.gg/clashfiles
+    link: "laidback"
 professional:
   name: Clash of Clans
   price: Serious Warmongers
