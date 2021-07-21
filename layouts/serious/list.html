@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+
+{{ "<!-- clan -->" | safeHTML }}
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ "<!-- /clan -->" | safeHTML }}
+
+<!-- call to action -->
+
+<!-- /call to action -->
+
+{{ end }}
