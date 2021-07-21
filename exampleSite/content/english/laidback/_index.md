@@ -1,36 +1,93 @@
 ---
-title: 'Clash of Clans: Laid-Back Clans'
-subtitle: ''
-description: We like to win and have fun doing it.
-draft: false
-
-{{< clan "🍵 Brits On Tour: Adults 18+, TH12+" >}} We're very competitive and are working on progressing to Champs 1 in SCCWL! {{</ clan >}}
-
-{{< clan "🍍 Kent Greenhouse: Adults 18+, TH7-TH11" >}} KGH is a teaching clan for adults who want to learn war strategies. {{</ clan >}}
-
-{{< clan "🚜 KFarmhouse: Adults 21+, TH10+" >}} We're friendly, war-focused adults who like to plow down our opponents' bases. {{</ clan >}}
-
-{{< clan "🏆 KGH Academy: Adults 18+, TH10+" >}} KGHA is a competitive league clan whose core goal is to develop members from good attackers to eSports-ready players.​ {{</ clan >}}
-
-{{< clan "🏰 London: Adults 18+, TH12+" >}} We take SCCWL very seriously but take a more laid-back approach to random spins. {{</ clan >}}
-
-{{< clan "🛡️ Noble Hero: Adults 21+, TH12+" >}} We are a fun adults who are passionate about war and believe heroes play for the good of the clan. {{</ clan >}}
-
-{{< clan "🥀 RedThorn: Adults 18+, TH12+" >}} We offer a social environment. You'll often find us in voice chat shooting the breeze while listening to tunes. {{</ clan >}}
-
-{{< clan "🀄 Sadudulur: Adults 18+, TH9-11" >}} We want out members to take part in as many war spins as possible. Most members are in GMT & BST Timezones. {{</ clan >}}
-
----
-
+banner:
+  title: We love Clash of Clans and Clash Royale!
+  image: "/images/cff_server_splash_image.png"
+  content: 'We produce multiple Clash Podcasts, host exciting Clash Scrims, and provide
+    a welcoming Discord Community. '
+  button:
+    enable: false
+    label: Contact With Us
+    link: contact
+feature:
+  enable: true
+  title: About Us
+  feature_item:
+  - name: Clash Podcasts
+    icon: fas fa-microphone-alt
+    content: We cover wars, pushing, farming, leagues, clan management & more.
+  - name: Scrims & Events
+    icon: fas fa-trophy
+    content: We always have an event running because gaming is more fun with friends!
+  - name: 10+ Clans
+    icon: fas fa-chess-rook
+    content: Our Clash & Royale clans are full of players who are mature, active,
+      & fun.
+  - name: Leagues & eSports
+    icon: fas fa-medal
+    content: 'We participate in potluck wars, community-made leagues, and eSports
+      tournaments. '
+  - name: Gameplay Development
+    icon: fas fa-gamepad
+    content: We teach war skills like base building, base identification, scouting,
+      & more.
+  - name: Discord Community
+    icon: fas fa-user-friends
+    content: We have been a Discord-Partnered community since January 2016!
+service:
+  enable: true
+  service_item:
+  - title: We enjoy Clash games so much that we've produced multiple podcasts about
+      them!
+    images:
+    - "/images/pineapplesandthorns-588.png"
+    - "/images/m2c-588.jpg"
+    - "/images/1400tcf.jpg"
+    - "/images/kgh-588.png"
+    - "/images/mwc.jpg"
+    content: 'Our two most recent shows, Pineapples & Thorns and Married 2 Clash, are
+      the spiritual successors of our three previous podcasts: The Clash Files, Kent
+      Greenhouse, and Married with Clash.'
+    button:
+      enable: true
+      label: Check them out
+      link: "podcasts"
+  - title: We offer 10+ clans in Clash of Clans and Clash Royale
+    images:
+    - "/images/castle.png"
+    content: And ALL of them are full of players who are mature, active, & fun.
+    button:
+      enable: true
+      label: Find your new clan
+      link: "clans"
+  - title: We constantly host fun events and participate in multiple community leagues
+    images:
+    - "/images/trophy.png"
+    content: We always have something going on because gaming is more fun with friends!
+    button:
+      enable: true
+      label: Check them out
+      link: "scrims"
+  - title: In The Clash Files Family you'll love the game AND love the players
+    images:
+    - "/images/phone-game.png"
+    content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years.
+    button:
+      enable: true
+      label: Find out why
+      link: "faq"
+screenshot:
+  enable: true
+  title: Discover the Best <br> Clash Community
+  image: "/images/base5.png"
 call_to_action:
   enable: true
-  title: Ready to join us?
+  title: Ready to play in a fun & drama-free way?
   image: "/images/discord_partner_full_logo_lockup_primary_black_rgb.svg"
-  content: Come to our Discord server and find your clan today!
+  content: 'Join our Discord-Partnered Clash of Clans & Clash Royale Community and
+    experience the way Clash is supposed to be! '
   button:
     enable: true
     label: Discord
     link: https://discord.gg/clashfiles
 
 ---
-
