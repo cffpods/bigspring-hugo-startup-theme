@@ -9,7 +9,7 @@ draft: false
 
 {{< clan "🌱 DarkThorn: Adults 18+, All Town Halls" >}} At DarkThorn we are chill and social with YOLO wars. {{</ clan >}}
 
-{{< clan "Dublin: Adults 18+, All Town Halls" >}} We're a laid-back clan who tries to keep a good war log. GMT & BST Timezones. {{</ clan >}}
+{{< clan "🍀 Dublin: Adults 18+, All Town Halls" >}} We're a laid-back clan who tries to keep a good war log. GMT & BST Timezones. {{</ clan >}}
 
 {{< clan "Phantom Zone: Adults 21+, TH11+" >}} We take pride in having fun wars in a mature adult environment.​ {{</ clan >}}
 
