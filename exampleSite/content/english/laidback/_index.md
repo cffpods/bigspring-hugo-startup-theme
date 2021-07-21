@@ -3,32 +3,45 @@ title: Our Clans
 subtitle: ''
 description: 'We offer the following types of clans:'
 draft: false
----
-feature:
-  enable: true
-  title: Laid-Back Clans
-  feature_item:
-  - name: DarkThorn: Adults 18+, All THs
-    icon: fas fa-microphone-alt
-    content: We are chill and social with YOLO wars. 
-  - name: Scrims & Events
-    icon: fas fa-trophy
-    content: We always have an event running because gaming is more fun with friends!
-  - name: 10+ Clans
-    icon: fas fa-chess-rook
-    content: Our Clash & Royale clans are full of players who are mature, active,
-      & fun.
-  - name: Leagues & eSports
-    icon: fas fa-medal
-    content: 'We participate in potluck wars, community-made leagues, and eSports
-      tournaments. '
-  - name: Gameplay Development
-    icon: fas fa-gamepad
-    content: We teach war skills like base building, base identification, scouting,
-      & more.
-  - name: Discord Community
-    icon: fas fa-user-friends
-    content: We have been a Discord-Partnered community since January 2016!
+basic:
+  name: Clash of Clans
+  price: Laid-Back Attackers
+  price_per: ''
+  info: We like to win and have fun.
+  services:
+  - Five Clan Options
+  - 'All Town Halls '
+  - Adults 18+
+  button:
+    enable: true
+    label: Find Your Clan
+    link: "laidback"
+professional:
+  name: Clash of Clans
+  price: Serious Warmongers
+  price_per: ''
+  info: We war hard and play hard.
+  services:
+  - Eight Clan Options
+  - Town Halls 7+
+  - Adults Only
+  button:
+    enable: true
+    label: Find Your Clan
+    link: "serious"
+business:
+  name: Clash Royale
+  price: Casual Competitors
+  price_per: ''
+  info: We keep our gameplay relaxed.
+  services:
+  - Two Clan Options
+  - Cards Level 9+
+  - Mature Adults
+  button:
+    enable: true
+    label: Find Your Clan
+    link: https://discord.gg/clashfiles
 call_to_action:
   enable: true
   title: Ready to join us?
@@ -40,4 +53,3 @@ call_to_action:
     link: https://discord.gg/clashfiles
 
 ---
-
