@@ -7,7 +7,7 @@ draft: false
 ---
 {{< clan "💀 Dark Sector: Adults 18+, TH11+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
 
-{{< clan "DarkThorn: Adults 18+, All Town Halls" >}} At DarkThorn we are chill and social with YOLO wars. {{</ clan >}}
+{{< clan "🌱 DarkThorn: Adults 18+, All Town Halls" >}} At DarkThorn we are chill and social with YOLO wars. {{</ clan >}}
 
 {{< clan "Dublin: Adults 18+, All Town Halls" >}} We're a laid-back clan who tries to keep a good war log. GMT & BST Timezones. {{</ clan >}}
 
