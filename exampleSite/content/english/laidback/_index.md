@@ -1,20 +1,18 @@
 ---
 banner:
-  title: We love Clash of Clans and Clash Royale!
-  image: "/images/cff_server_splash_image.png"
-  content: 'We produce multiple Clash Podcasts, host exciting Clash Scrims, and provide
-    a welcoming Discord Community. '
+  title: Clash of Clans
+  content: 'Our playstyles range from relaxed to competitive.'
   button:
     enable: false
-    label: Contact With Us
-    link: contact
+    label: Discord
+    link: https://discord.gg/clashfiles
 feature:
   enable: true
-  title: About Us
+  title: Laid-Back Clans
   feature_item:
-  - name: Clash Podcasts
+  - name: DarkThorn: Adults 18+, All THs
     icon: fas fa-microphone-alt
-    content: We cover wars, pushing, farming, leagues, clan management & more.
+    content: We are chill and social with YOLO wars. 
   - name: Scrims & Events
     icon: fas fa-trophy
     content: We always have an event running because gaming is more fun with friends!
