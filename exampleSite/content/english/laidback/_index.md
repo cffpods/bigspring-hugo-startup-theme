@@ -31,10 +31,6 @@ feature:
   - name: Discord Community
     icon: fas fa-user-friends
     content: We have been a Discord-Partnered community since January 2016!
-screenshot:
-  enable: true
-  title: Discover the Best <br> Clash Community
-  image: "/images/base5.png"
 call_to_action:
   enable: true
   title: Ready to play in a fun & drama-free way?
