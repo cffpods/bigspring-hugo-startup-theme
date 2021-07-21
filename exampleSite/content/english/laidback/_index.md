@@ -20,6 +20,8 @@ draft: false
 
 {{< clan "🀄 Sadudulur: Adults 18+, TH9-11" >}} We want out members to take part in as many war spins as possible. Most members are in GMT & BST Timezones. {{</ clan >}}
 
+---
+
 call_to_action:
   enable: true
   title: Ready to join us?
