@@ -5,7 +5,7 @@ description: We like to win and have fun doing it.
 draft: false
 
 ---
-{{< clan "Dark Sector: Adults 18+, TH11+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
+{{< clan "💀 Dark Sector: Adults 18+, TH11+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
 
 {{< clan "DarkThorn: Adults 18+, All Town Halls" >}} At DarkThorn we are chill and social with YOLO wars. {{</ clan >}}
 
