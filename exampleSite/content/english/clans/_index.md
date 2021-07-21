@@ -28,7 +28,7 @@ professional:
   button:
     enable: true
     label: Find Your Clan
-    link: https://discord.gg/clashfiles
+    link: "serious"
 business:
   name: Clash Royale
   price: Casual Competitors
