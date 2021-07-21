@@ -1,4 +1,9 @@
 ---
+title: Our Clans
+subtitle: ''
+description: 'We offer the following types of clans:'
+draft: false
+---
 feature:
   enable: true
   title: Laid-Back Clans
@@ -26,13 +31,13 @@ feature:
     content: We have been a Discord-Partnered community since January 2016!
 call_to_action:
   enable: true
-  title: Ready to play in a fun & drama-free way?
+  title: Ready to join us?
   image: "/images/discord_partner_full_logo_lockup_primary_black_rgb.svg"
-  content: 'Join our Discord-Partnered Clash of Clans & Clash Royale Community and
-    experience the way Clash is supposed to be! '
+  content: Come to our Discord server and find your clan today!
   button:
     enable: true
     label: Discord
     link: https://discord.gg/clashfiles
 
 ---
+
