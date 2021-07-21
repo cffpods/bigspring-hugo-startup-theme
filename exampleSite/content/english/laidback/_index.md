@@ -1,7 +1,7 @@
 ---
-title: Our Clans
+title: Laid-Back Clans
 subtitle: ''
-description: 'We offer the following types of clans:'
+description: We like to win but have fun doing it.
 draft: false
 basic:
   name: Clash of Clans
@@ -15,7 +15,7 @@ basic:
   button:
     enable: true
     label: Find Your Clan
-    link: "laidback"
+    link: laidback
 professional:
   name: Clash of Clans
   price: Serious Warmongers
@@ -28,7 +28,7 @@ professional:
   button:
     enable: true
     label: Find Your Clan
-    link: "serious"
+    link: serious
 business:
   name: Clash Royale
   price: Casual Competitors
