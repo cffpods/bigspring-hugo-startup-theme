@@ -13,9 +13,9 @@ draft: false
 
 {{< clan "🏆 KGH Academy: Adults 18+, TH10+" >}} KGHA is a competitive league clan whose core goal is to develop members from good attackers to eSports-ready players.​ {{</ clan >}}
 
-{{< clan "Phantom Zone 2: Adults 21+, TH10+" >}} We are super laid back, mature adults. {{</ clan >}}
+{{< clan "🏰 London: Adults 18+, TH12+" >}} We take SCCWL very seriously but take a more laid-back approach to random spins. {{</ clan >}}
 
-{{< clan "Phantom Zone 2: Adults 21+, TH10+" >}} We are super laid back, mature adults. {{</ clan >}}
+{{< clan "Noble Hero: Adults 21+, TH12+" >}} We are a fun adults who are passionate about war and believe heroes play for the good of the clan. {{</ clan >}}
 
 {{< clan "Phantom Zone 2: Adults 21+, TH10+" >}} We are super laid back, mature adults. {{</ clan >}}
 
