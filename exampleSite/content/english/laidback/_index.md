@@ -33,48 +33,6 @@ feature:
   - name: Discord Community
     icon: fas fa-user-friends
     content: We have been a Discord-Partnered community since January 2016!
-service:
-  enable: true
-  service_item:
-  - title: We enjoy Clash games so much that we've produced multiple podcasts about
-      them!
-    images:
-    - "/images/pineapplesandthorns-588.png"
-    - "/images/m2c-588.jpg"
-    - "/images/1400tcf.jpg"
-    - "/images/kgh-588.png"
-    - "/images/mwc.jpg"
-    content: 'Our two most recent shows, Pineapples & Thorns and Married 2 Clash, are
-      the spiritual successors of our three previous podcasts: The Clash Files, Kent
-      Greenhouse, and Married with Clash.'
-    button:
-      enable: true
-      label: Check them out
-      link: "podcasts"
-  - title: We offer 10+ clans in Clash of Clans and Clash Royale
-    images:
-    - "/images/castle.png"
-    content: And ALL of them are full of players who are mature, active, & fun.
-    button:
-      enable: true
-      label: Find your new clan
-      link: "clans"
-  - title: We constantly host fun events and participate in multiple community leagues
-    images:
-    - "/images/trophy.png"
-    content: We always have something going on because gaming is more fun with friends!
-    button:
-      enable: true
-      label: Check them out
-      link: "scrims"
-  - title: In The Clash Files Family you'll love the game AND love the players
-    images:
-    - "/images/phone-game.png"
-    content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years.
-    button:
-      enable: true
-      label: Find out why
-      link: "faq"
 screenshot:
   enable: true
   title: Discover the Best <br> Clash Community
