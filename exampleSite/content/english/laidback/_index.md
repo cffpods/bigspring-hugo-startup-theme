@@ -1,5 +1,9 @@
 ---
+title: 'Clash of Clans: Laid-Back Clans'
+subtitle: ''
+description: We like to make war fun.
 draft: false
+---
 
 {{< clan "💀 Dark Sector: Adults 18+, TH11+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
 
