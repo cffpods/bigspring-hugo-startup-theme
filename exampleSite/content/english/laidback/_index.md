@@ -53,7 +53,7 @@ call_to_action:
     link: https://discord.gg/clashfiles
 
 ---
-{{< clan "![:skull:](https://canary.discord.com/assets/f64f47a895e537305b3463f9d30bc177.svg)![:skull:](https://canary.discord.com/assets/f64f47a895e537305b3463f9d30bc177.svg)💀 Dark Sector: Adults 18+, TH11+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
+{{< clan "💀 Dark Sector: Adults 18+, TH11+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
 
 {{< clan "🌱 DarkThorn: Adults 18+, TH11 & BELOW" >}} At DarkThorn we are chill and social with YOLO wars. {{</ clan >}}
 
