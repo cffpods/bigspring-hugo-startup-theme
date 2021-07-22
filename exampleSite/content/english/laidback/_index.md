@@ -62,5 +62,3 @@ call_to_action:
 {{< clan "🌑 Phantom Zone: Adults 21+, TH11+" >}} We take pride in having fun wars in a mature adult environment. {{</ clan >}}
 
 {{< clan "🪐 Phantom Zone 2: Adults 21+, TH10+" >}} We are super laid back, mature adults. {{</ clan >}}
-
-call_to_action: enable: true title: Ready to join us? image: "/images/discord_partner_full_logo_lockup_primary_black_rgb.svg" content: Come to our Discord server and find your clan today! button: enable: true label: Discord link: [https://discord.gg/clashfiles](https://discord.gg/clashfiles "https://discord.gg/clashfiles")
