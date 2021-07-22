@@ -1,47 +1,4 @@
----
-title: Laid-Back Clans
-subtitle: ''
-description: We like to win but have fun doing it.
-draft: false
-basic:
-  name: Clash of Clans
-  price: Laid-Back Attackers
-  price_per: ''
-  info: We like to win and have fun.
-  services:
-  - Five Clan Options
-  - 'All Town Halls '
-  - Adults 18+
-  button:
-    enable: true
-    label: Find Your Clan
-    link: laidback
-professional:
-  name: Clash of Clans
-  price: Serious Warmongers
-  price_per: ''
-  info: We war hard and play hard.
-  services:
-  - Eight Clan Options
-  - Town Halls 7+
-  - Adults Only
-  button:
-    enable: true
-    label: Find Your Clan
-    link: serious
-business:
-  name: Clash Royale
-  price: Casual Competitors
-  price_per: ''
-  info: We keep our gameplay relaxed.
-  services:
-  - Two Clan Options
-  - Cards Level 9+
-  - Mature Adults
-  button:
-    enable: true
-    label: Find Your Clan
-    link: https://discord.gg/clashfiles
+
 call_to_action:
   enable: true
   title: Ready to join us?
