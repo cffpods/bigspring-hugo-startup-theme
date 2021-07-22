@@ -9,4 +9,4 @@ draft: false
 
 {{< clan "🍕 Thin Crust: Adults 18+, King Tower Level 11+" >}} We're looking for adult members with a wide variety of cards that are suitable for Gold or Legendary League wars. {{</ clan >}}
 
-![](/images/discord_partner_full_logo_lockup_primary_black_rgb.svg)![](/images/discord_partner_full_logo_lockup_primary_black_rgb.svg)
+![https://discord.gg/clashfiles](/images/discord_partner_full_logo_lockup_primary_black_rgb.svg)!
