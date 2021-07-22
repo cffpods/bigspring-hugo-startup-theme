@@ -41,7 +41,7 @@ business:
   button:
     enable: true
     label: Find Your Clan
-    link: https://discord.gg/clashfiles
+    link: "royale"
 call_to_action:
   enable: true
   title: Ready to join us?
