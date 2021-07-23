@@ -2,8 +2,8 @@
 name = "Clash Podcasts"
 url = "podcasts"
 [[footer_left]]
-name = "Married 2 Clash"
-url = "blog/married-2-clash/"
+name = "Clash Scrims"
+url = "scrims"
 [[footer_left]]
 name = "The Clash Files"
 url = ""
