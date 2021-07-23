@@ -2,7 +2,7 @@
 title: SOTM
 date: 2021-07-10T10:30:00-04:00
 image: "/images/dotgcbc.png"
-type: ''
+type: regular
 description: ''
 
 ---
