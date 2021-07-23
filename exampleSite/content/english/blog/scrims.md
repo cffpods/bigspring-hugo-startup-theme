@@ -1,7 +1,7 @@
 ---
 title: scrims
 date: 2021-07-23T00:00:00-04:00
-image: "/images/tyspurpteam2.jpg"
+image: "/images/glazedvfrosted1.jpg"
 type: regular
 description: ''
 
