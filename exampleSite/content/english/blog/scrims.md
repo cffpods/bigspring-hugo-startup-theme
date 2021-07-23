@@ -10,11 +10,9 @@ Clash Scrims we love them!!
 
 Here's some that we've done:
 
-
-
 | WE | LOVE | SCRIMS |
-| --- | :---: | ---: |
-| col 3 is | right-aligned | $1600 |
+| :---: | :---: | :---: |
+| [](/images/clashsports.jpg) | [](/images/banner-2.png) | [](/images/tyspurpteam2.jpg) |
 | col 2 is | centered | $12 |
 | zebra stripes | are neat | $1 |
 
@@ -26,3 +24,5 @@ raw Markdown line up prettily. You can also use inline Markdown.
 | --- | --- | --- |
 | Still | renders | nicely |
 | 1 | 2 | 3 |
+
+l![](/images/banner-2.png)
