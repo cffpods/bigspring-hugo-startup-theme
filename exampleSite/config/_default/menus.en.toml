@@ -23,7 +23,7 @@ url = "blog"
 name = "Frequently Asked"
 url = "faq"
 [[footer_right]]
-name = "Rules"
+name = "Rules & Guidelines"
 url = "terms-conditions"
 [[footer_right]]
 name = "Support Us"
