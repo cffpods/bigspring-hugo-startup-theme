@@ -1,6 +1,6 @@
 ---
 title: Clash Royale
-subtitle: ''
+subtitle: 'Join us in our Discord server!'
 description: We make war fun.
 draft: false
 
