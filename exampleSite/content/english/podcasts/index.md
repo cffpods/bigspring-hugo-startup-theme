@@ -12,8 +12,6 @@ Previous hosts of the Kent Greenhouse podcast team up with new friends to cover 
 
 {{< spotify show 0c0syeKDX7lK85DMmtwo39 >}}
 
-<br>
-
 ## Married 2 Clash
 
 <br>
@@ -21,8 +19,6 @@ Previous hosts of the Kent Greenhouse podcast team up with new friends to cover 
 In M2C, Clash friends and past Married With Clash hosts get together to talk about Clash of Clans gameplay, gamer relationships, kids, news, and food. 
 
 {{< spotify show 3op1fQ1sYGNufesaWWOu90 >}}
-
-<br>
 
 ## The Clash Files
 
