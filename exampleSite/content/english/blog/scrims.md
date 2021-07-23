@@ -1,7 +1,7 @@
 ---
 title: Clash Scrims
 date: 2021-07-23T00:00:00-04:00
-image: "/images/glazedvfrosted1.jpg"
+image: "/images/builder-grin.webp"
 type: regular
 description: ''
 
