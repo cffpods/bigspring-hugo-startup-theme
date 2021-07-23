@@ -49,7 +49,7 @@ service:
       Greenhouse, and Married with Clash.'
     button:
       enable: true
-      label: Check them out
+      label: Listen & learn more
       link: "podcasts"
   - title: We offer 10+ clans in Clash of Clans and Clash Royale
     images:
