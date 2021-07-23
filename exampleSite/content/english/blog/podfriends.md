@@ -6,7 +6,7 @@ type: regular
 description: image thanks to freepik.com
 
 ---
-Our podcast friends are the best! They ALL covered our Clash Files Clash Scrims! So we wanted to give them a special shout out and recommend that in addition to these episodes, you give their shows a listen, because they're great!
+Our podcast friends are the best! They ALL covered our Clash Files Clash Scrims and ushed about the Pods and Wreckreation war on air! So we wanted to give them a special shout out and recommend that in addition to these episodes, you give their shows a listen, because they're great!
 
 * [**Clash on the Poddy** ](https://anchor.fm/tj920/)discussed the TH14 war in [Episode 3 of Season 3](https://anchor.fm/tj920/episodes/S3-Ep-3-The-TH14-Only-War-and-the-Warden-Walk-Super-Archer-Attack-e10veb6)
 * [**Crystal 2 Join**](https://www.buzzsprout.com/973969/) talked about the war in [Episode 39](https://www.buzzsprout.com/973969/8530823-episode-39-50-v-50-all-th14-event-7-different-attacks-for-cwl-and-top-3-post-covid-things-to-do)
@@ -15,4 +15,4 @@ Our podcast friends are the best! They ALL covered our Clash Files Clash Scrims!
 * It was a part of [**The Clash Room with Drake**](https://anchor.fm/drake-calhoon) in his [April 17th episode](https://anchor.fm/drake-calhoon/episodes/Datsun-returns--Pods-and-Wreck--Base-building-ev4b7t)
 * Pods and Wreck also made it into [**Clashing On**](https://anchor.fm/dynamite7) on both [April 24th and 30th](https://anchor.fm/dynamite7/episodes/Podcast-Ep-wUh---what-was-her-name-again-e1017q7)
 
-Tribe of Judah, Proverbs31, Catfish, $C-Note$, Karl, Hiro, Historian, Drake, and Dynamite -- we're SO thrilled that you had such a good time with The Clash Files Family that you gushed about us on air. We love you back and are very happy to have you here!
+Tribe of Judah, Proverbs31, Catfish, $C-Note$, Karl, Hiro, Historian, Drake, and Dynamite -- we're SO thrilled that you had such a good time with The Clash Files Family. We love you back and are very happy to have you as part of our community!
