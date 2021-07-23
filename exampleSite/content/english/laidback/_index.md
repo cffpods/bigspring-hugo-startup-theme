@@ -1,6 +1,6 @@
 ---
 title: 'Clash of Clans: Laid-Back Clans'
-subtitle: ''
+subtitle: 'We have fun while warring to win! See a [clan](/clans) you like? Head to our [Discord](https://discord.gg/clasfiles) server to get its join password from Recruiters. If you play Clash Royale we have clans there, too. [Check them out](/clans)!'
 description: We like to make war fun.
 draft: false
 basic:
