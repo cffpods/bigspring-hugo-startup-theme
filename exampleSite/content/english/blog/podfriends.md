@@ -1,5 +1,5 @@
 ---
-title: podfriends
+title: Podcaster BFFs
 date: 2021-07-11T12:00:00-04:00
 image: "/images/radio-crop.png"
 type: regular
