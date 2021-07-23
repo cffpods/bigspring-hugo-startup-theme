@@ -11,11 +11,11 @@ url = "scrims"
 name = "Clash Podcasts"
 url = "podcasts"
 [[footer_middle]]
-name = "Clash Royale"
-url = ""
-[[footer_middle]]
 name = "Clash Scrims"
 url = "scrims"
+[[footer_middle]]
+name = "Clash Cord"
+url = "https://discord.gg/clashfiles"
 [[footer_right]]
 name = "Brick Oven Bulletin"
 url = "blog"
