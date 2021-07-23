@@ -1,6 +1,6 @@
 ---
 title: 'Clash of Clans: Serious Clans'
-subtitle: 'Head to our [Discord](https://discord.gg/clasfiles) server to get the join password! We also have clans in Clash Royale. [Check them out](/clans)!'
+subtitle: 'We war hard annd play hard! See a [clan](/clans) you like? Head to our [Discord](https://discord.gg/clasfiles) server to get its join password from Recruiters.'
 description: We are committed to war.
 draft: false
 
