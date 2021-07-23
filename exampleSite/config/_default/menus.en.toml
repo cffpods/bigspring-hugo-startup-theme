@@ -2,11 +2,11 @@
 name = "Clash Podcasts"
 url = "podcasts"
 [[footer_left]]
+name = "Clash Esports"
+url = "esports"
+[[footer_left]]
 name = "Clash Scrims"
 url = "scrims"
-[[footer_left]]
-name = "Clash Discord"
-url = "https://discord.gg/clashfiles"
 [[footer_middle]]
 name = "Clash of Clans"
 url = ""
