@@ -25,4 +25,4 @@ raw Markdown line up prettily. You can also use inline Markdown.
 | Still | renders | nicely |
 | 1 | 2 | 3 |
 
-l![](/images/banner-2.png)
+l[](/images/banner-2.png)
