@@ -31,7 +31,7 @@ feature:
     content: We teach war skills like base building, base identification, scouting,
       & more.
   - name: Discord Community
-    icon: fas fa-user-friends
+    icon: fas fa-discord
     content: We have been a Discord-Partnered community since January 2016!
 service:
   enable: true
