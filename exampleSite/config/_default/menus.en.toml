@@ -8,6 +8,9 @@ url = "esports"
 name = "Clash Scrims"
 url = "scrims"
 [[footer_middle]]
+name = "Brick Oven Bulletin"
+url = "blog"
+[[footer_middle]]
 name = "Clash Podcasts"
 url = "podcasts"
 [[footer_middle]]
