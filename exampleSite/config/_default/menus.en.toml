@@ -48,4 +48,4 @@ weight = "5"
 [[main]]
 name = "FAQ"
 url = "faq"
-weight = "5"
+weight = "6"
