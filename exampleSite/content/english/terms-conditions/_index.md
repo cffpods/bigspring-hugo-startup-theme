@@ -5,7 +5,7 @@ description: ''
 draft: false
 
 ---
-Clash Files Family server members and clan members are expected to abide by the following:
+\**Clash Files Family server members and clan members are expected to abide by the following:**
 
 #### 》No Hate Speech
 
