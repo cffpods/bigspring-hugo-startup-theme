@@ -1,6 +1,6 @@
 ---
 title: Clash Royale
-subtitle: 'Head to our [Discord](https://discord.gg/clashfiles) server to get the join password! 
+subtitle: 'We keep our gameplay relaxed. Want to join us? Head to our [Discord](https://discord.gg/clashfiles) server to get the join password! 
 We also have 10+ clans in Clash of Clans. [Check them out](/clans)!'
 description: We make war fun.
 draft: false
