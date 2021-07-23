@@ -3,7 +3,7 @@ name = "Clash Clans"
 url = "clans"
 [[footer_left]]
 name = "Clash Esports"
-url = "esports"
+url = "/blog/esports/"
 [[footer_left]]
 name = "Clash Scrims"
 url = "scrims"
