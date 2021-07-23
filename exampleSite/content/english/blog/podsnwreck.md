@@ -14,4 +14,4 @@ First was the LIVE DRAFT. where Karl of Crystal 2 Join drafted players for **Tea
 
 Then came the war which we were lucky to have livestreamed by our favorite streamer, [Mordzors](https://twitch.tv/mordzors). Pods and Wreck was a blast from start to finish! 
 
-We can't thank our podcast friends enough for joining us and hyping us on their shows. 
+We can't thank our podcast friends enough for joining us and hyping us on their shows:
