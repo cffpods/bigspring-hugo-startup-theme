@@ -1,6 +1,7 @@
 ---
 title: Clash Royale
-subtitle: 'We keep our gameplay relaxed. Want to join us? Head to our [Discord](https://discord.gg/clashfiles) server to get the join password!'
+subtitle: We keep our gameplay relaxed. Want to join our [clans](/clans)? Head to
+  our [Discord](https://discord.gg/clashfiles) server to get the join password!
 description: We make war fun.
 draft: false
 
