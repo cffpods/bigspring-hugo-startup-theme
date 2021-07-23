@@ -1,8 +1,8 @@
 ---
 title: Esports and Leagues
-date: 
+date: 2021-07-12T00:00:00-04:00
 image: "/images/clashsports.jpg"
-type: ''
+type: regular
 description: ''
 
 ---
