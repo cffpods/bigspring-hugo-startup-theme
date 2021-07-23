@@ -2,7 +2,7 @@
 title: Pods and Wreck
 date: 2021-07-11T10:00:00.000-04:00
 image: "/images/parkrectreepets.jpg"
-type: regular
+type: featured
 description: ''
 
 ---
