@@ -30,12 +30,12 @@ name = "Home"
 url = "/"
 weight = 1
 [[main]]
-name = "News"
-url = "blog"
-weight = 2
-[[main]]
 name = "Podcasts"
 url = "podcasts"
+weight = "3"
+[[main]]
+name = "News"
+url = "blog"
 weight = "3"
 [[main]]
 name = "Clans"
