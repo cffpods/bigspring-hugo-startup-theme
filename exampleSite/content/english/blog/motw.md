@@ -1,6 +1,6 @@
 ---
 title: MOTW
-date: 
+date: 2021-07-10T10:00:00-04:00
 image: "/images/dotdlud.png"
 type: regular
 description: ''
