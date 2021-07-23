@@ -1,7 +1,7 @@
 ---
 title: Podcaster BFFs
-date: 2021-07-11T12:00:00-04:00
-image: "/images/radio-crop.png"
+date: 2021-07-11T12:00:00.000-04:00
+image: "/images/people-recording-podcast-tr.png"
 type: regular
 description: image thanks to freepik.com
 
