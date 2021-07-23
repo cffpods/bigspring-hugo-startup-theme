@@ -18,3 +18,4 @@ The Clash Files
 The podcast that started it all! We discussed farming strategies, pushing, war, news, and even non-clash talk from time to time while having plenty of laughs. 
 
 {{< spotify show 2aPFtptG6wEQGp6eGkvrNb >}}
+---
