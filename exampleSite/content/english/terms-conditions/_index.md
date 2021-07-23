@@ -1,5 +1,5 @@
 ---
-title: Terms & Guidelines
+title: Rules & Guidelines
 subtitle: ''
 description: ''
 draft: false
