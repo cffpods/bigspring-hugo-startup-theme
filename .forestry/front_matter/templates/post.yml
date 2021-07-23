@@ -19,6 +19,7 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/english/blog/esports.md
 - exampleSite/content/english/blog/motw.md
 - exampleSite/content/english/blog/motw.md
 - exampleSite/content/english/blog/podfriends.md
