@@ -5,8 +5,8 @@ url = "podcasts"
 name = "Clash Scrims"
 url = "scrims"
 [[footer_left]]
-name = "The Clash Files"
-url = ""
+name = "Clash Discord"
+url = "https://discord.gg/clashfiles"
 [[footer_middle]]
 name = "Clash of Clans"
 url = ""
