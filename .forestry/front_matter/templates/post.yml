@@ -20,11 +20,12 @@ fields:
   label: meta description
 pages:
 - exampleSite/content/english/blog/esports.md
+- exampleSite/content/english/blog/esports.md
 - exampleSite/content/english/blog/motw.md
 - exampleSite/content/english/blog/motw.md
-- exampleSite/content/english/blog/podfriends.md
 - exampleSite/content/english/blog/podsnwreck.md
 - exampleSite/content/english/blog/podsnwreck.md
+- exampleSite/content/english/blog/scrims.md
 - exampleSite/content/english/blog/scrims.md
 - exampleSite/content/english/blog/sotm.md
 - exampleSite/content/english/blog/sotm.md

@@ -1,6 +1,6 @@
 ---
 title: Esports and Leagues
-date: 2021-07-12T16:00:00-04:00
+date: 2021-07-12T16:00:00.000-04:00
 image: "/images/clashsports.jpg"
 type: regular
 description: ''
@@ -20,3 +20,5 @@ Many of our members love to challenge themselves in Clash of Clans. Therefore ou
 * Elite War League (EWL)
 * Brothers Family Alliance (BFA)
 * Hunger Cup League (HCL)
+
+Learn more about KGH Academy in our \[Discord\](https://discord.gg/clashfiles) server where you can chat with its members and recruiters!
