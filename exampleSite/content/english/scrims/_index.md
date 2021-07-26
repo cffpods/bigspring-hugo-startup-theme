@@ -39,7 +39,6 @@ service:
     - "/images/glazedvfrosted2.jpg"
     - "/images/glazedvfrosted1.jpg"
     - "/images/bbqwizard.jpg"
-    - "/images/rampup-banner2.png"
     - "/images/387942_orig.png"
     content: 'Because Clashing is more fun with friends!'
     button:
