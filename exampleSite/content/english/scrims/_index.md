@@ -12,10 +12,10 @@ feature:
   title: About Us
   feature_item:
   - name: Event Wars
-    icon: fas fa-swords
+    icon: fab fa-swords
     content: Fun with friends - old and new.
   - name: Social Mixers
-    icon: fas fa-shield
+    icon: fab fa-shield
     content: Getting to know all about you.
   - name: Tournaments
     icon: fas fa-award
