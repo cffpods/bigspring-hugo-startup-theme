@@ -23,13 +23,13 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Clash Scrims
+  - title: These are only just SOME of the many scrims we have held over the past six years!
     images:
     - "/images/th14-may14.jpg"
     - "/images/jk-sneaky.jpg"
     - "/images/parkrectreeandpets1-treatyoselfliterallybest.jpg"
     - "/images/airposter2.jpg"
-    - "/images/banner-2.png"
+    - "/images/summer-lootin-crop.png"
     - "/images/vday-massacredraft-cover.png"
     - "/images/hogrider-th9love-1920-1080.png"
     - "/images/light_it_up_2020_war.png"
