@@ -26,10 +26,6 @@ url = "terms-conditions"
 name = "Support Us"
 url = "https://ko-fi.com/clash"
 [[main]]
-name = "Scrims"
-url = "scrims"
-weight = ""
-[[main]]
 name = "Home"
 url = "/"
 weight = 1
@@ -45,6 +41,10 @@ weight = "3"
 name = "Clans"
 url = "clans"
 weight = "4"
+[[main]]
+name = "Scrims"
+url = "scrims"
+weight = "5"
 [[main]]
 name = "Esports"
 url = "/blog/esports/"
