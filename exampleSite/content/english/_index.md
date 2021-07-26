@@ -66,7 +66,7 @@ service:
     button:
       enable: true
       label: Check them out
-      link: "/blog/esports/"
+      link: "scrims"
   - title: In The Clash Files Family you'll love the game AND love the players
     images:
     - "/images/phone-game.png"
