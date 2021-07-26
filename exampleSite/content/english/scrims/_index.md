@@ -10,7 +10,7 @@ feature:
     icon: fas fa-child
     content: Getting to know all about you.
   - name: Tournaments
-    icon: fas fa-award
+    icon: fas fa-gem
     content: Sometimes scrims have prizes, too!
 service:
   enable: true
