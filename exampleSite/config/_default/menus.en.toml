@@ -6,7 +6,7 @@ name = "Clash Esports"
 url = "/blog/esports/"
 [[footer_left]]
 name = "Clash Scrims"
-url = "/blog/scrims/"
+url = "scrims"
 [[footer_middle]]
 name = "Brick Oven Bulletin"
 url = "blog"
