@@ -49,35 +49,7 @@ service:
     button:
       enable: true
       label: Listen & learn more
-      link: "podcasts"
-  - title: We offer 10+ clans in Clash of Clans and Clash Royale
-    images:
-    - "/images/castle.png"
-    content: And ALL of them are full of players who are mature, active, & fun.
-    button:
-      enable: true
-      label: Find your new clan
-      link: "clans"
-  - title: We constantly host fun events and participate in multiple community leagues
-    images:
-    - "/images/trophy.png"
-    content: We always have something going on because gaming is more fun with friends!
-    button:
-      enable: true
-      label: Check them out
-      link: "/blog/esports/"
-  - title: In The Clash Files Family you'll love the game AND love the players
-    images:
-    - "/images/phone-game.png"
-    content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years.
-    button:
-      enable: true
-      label: Find out why
-      link: "faq"
-screenshot:
-  enable: true
-  title: Discover the Best <br> Clash Community
-  image: "/images/base5.png"
+      link: "podcasts" 
 call_to_action:
   enable: true
   title: Ready to play in a fun & drama-free way?
