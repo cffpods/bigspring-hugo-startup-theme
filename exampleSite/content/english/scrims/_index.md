@@ -3,7 +3,7 @@ feature:
   enable: true
   title: Clash Scrims
   feature_item:
-  - name: Event Wars
+  - name: Themed Wars
     icon: fas fa-dragon
     content: Fun with friends, old and new.
   - name: Social Mixers
