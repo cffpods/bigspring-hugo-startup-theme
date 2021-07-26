@@ -48,7 +48,7 @@ call_to_action:
   enable: true
   title: Want to play, too?
   image: "/images/discord_partner_full_logo_lockup_primary_black_rgb.svg"
-  content: 'Join our Discord-Partnered Clash of Clans & Clash Royale Community! '
+  content: 'Everyone is welcome. Join our community today!'
   button:
     enable: true
     label: Discord
