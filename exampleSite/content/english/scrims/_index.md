@@ -21,7 +21,6 @@ service:
     - "/images/jk-sneaky.jpg"
     - "/images/parkrectreeandpets1-treatyoselfliterallybest.jpg"
     - "/images/airposter2.jpg"
-    - "/images/summer-lootin-crop.png"
     - "/images/vday-massacredraft-cover.png"
     - "/images/hogrider-th9love-1920-1080.png"
     - "/images/light_it_up_2020_war.png"
