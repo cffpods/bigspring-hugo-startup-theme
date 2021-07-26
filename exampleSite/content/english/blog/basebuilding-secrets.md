@@ -2,7 +2,7 @@
 title: Basebuilding Secrets
 date: 2021-07-24T00:00:00-04:00
 image: "/images/poster2.jpg"
-type: ''
+type: regular
 description: ''
 
 ---
