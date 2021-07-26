@@ -5,13 +5,13 @@ feature:
   feature_item:
   - name: Event Wars
     icon: fas fa-shield-alt
-    content: Fun with friends - old and new.
+    content: Fun with friends, old and new.
   - name: Social Mixers
     icon: fas fa-child
-    content: Getting to know all about you.
+    content: Let's get to know all about you.
   - name: Tournaments
     icon: fas fa-gem
-    content: Sometimes scrims have prizes, too!
+    content: Sometimes our scrims have prizes, too!
 service:
   enable: true
   service_item:
