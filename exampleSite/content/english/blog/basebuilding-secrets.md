@@ -1,6 +1,6 @@
 ---
-title: Basebuilding Secrets
-date: 2021-07-24T00:00:00-04:00
+title: 'Basebuilding Secrets: Pineapples & Thorns LIVE Show'
+date: 2021-07-24T06:00:00-04:00
 image: "/images/poster2.jpg"
 type: regular
 description: ''
