@@ -4,10 +4,10 @@ feature:
   title: Clash Scrims
   feature_item:
   - name: Event Wars
-    icon: fab fa-swords
+    icon: fab fa-shield-alt
     content: Fun with friends - old and new.
   - name: Social Mixers
-    icon: fas fa-shield-alt
+    icon: fas fa-child
     content: Getting to know all about you.
   - name: Tournaments
     icon: fas fa-award
