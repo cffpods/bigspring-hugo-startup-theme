@@ -15,7 +15,7 @@ feature:
     icon: fab fa-swords
     content: Fun with friends - old and new.
   - name: Social Mixers
-    icon: fab fa-shield
+    icon: fas fa-shield-alt
     content: Getting to know all about you.
   - name: Tournaments
     icon: fas fa-award
