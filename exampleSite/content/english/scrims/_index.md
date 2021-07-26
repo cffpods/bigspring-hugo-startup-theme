@@ -8,14 +8,14 @@ feature:
     content: Fun with friends, old and new.
   - name: Social Mixers
     icon: fas fa-user-friends
-    content: Let's get to know all about you.
+    content: Let's us get to know all about you.
   - name: Tournaments
     icon: fas fa-gem
     content: Sometimes our scrims have prizes, too!
 service:
   enable: true
   service_item:
-  - title: These are only just SOME of the many scrims we have held over the past six years!
+  - title: These are just some of the many scrims we have held over the past six years!
     images:
     - "/images/th14-may14.jpg"
     - "/images/jk-sneaky.jpg"
