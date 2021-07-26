@@ -19,7 +19,7 @@ feature:
     content: Getting to know all about you.
   - name: Tournaments
     icon: fas fa-award
-    content: Sometimes scrims have prizes, too.
+    content: Sometimes scrims have prizes, too!
 service:
   enable: true
   service_item:
