@@ -48,8 +48,8 @@ weight = "4"
 [[main]]
 name = "Esports"
 url = "/blog/esports/"
-weight = "5"
+weight = "6"
 [[main]]
 name = "FAQ"
 url = "faq"
-weight = "6"
+weight = "7"
