@@ -24,7 +24,7 @@ name = "Rules & Guidelines"
 url = "terms-conditions"
 [[footer_right]]
 name = "Support Us"
-url = "https://ko-fi.com/clash"
+url = "#"
 [[main]]
 name = "Home"
 url = "/"
