@@ -46,10 +46,6 @@ name = "Scrims"
 url = "scrims"
 weight = "5"
 [[main]]
-name = "Esports"
-url = "/blog/esports/"
-weight = "6"
-[[main]]
 name = "FAQ"
 url = "faq"
 weight = "7"
