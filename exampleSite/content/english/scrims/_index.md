@@ -8,7 +8,7 @@ feature:
     content: Fun with friends, old and new.
   - name: Social Mixers
     icon: fas fa-user-friends
-    content: Lets us get to know all about you.
+    content: So we can get to know you.
   - name: Tournaments
     icon: fas fa-gem
     content: Sometimes our scrims have prizes, too!
