@@ -33,9 +33,9 @@ service:
     - "/images/bbqwizard.jpg"
     content: 'Because Clashing is more fun with friends!'
     button:
-      enable: true
-      label: Listen & learn more
-      link: "podcasts" 
+      enable: false
+      label: Join via Discord
+      link: https://discord.gg/clashfiles 
 call_to_action:
   enable: true
   title: Want to play, too?
