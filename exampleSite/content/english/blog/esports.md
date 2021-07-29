@@ -6,7 +6,7 @@ type: regular
 description: ''
 
 ---
-Many of our members love to challenge themselves in Clash of Clans. Therefore our eSports-focused members gather in [**KGH Academy**](serious) to participate in multiple tournaments and hone their skills under pressure. Some of the leagues we have participated in are:
+Many of our members love to challenge themselves in Clash of Clans. Therefore our eSports-focused members gather in [**KGH Academy**](https://clashpodcast.com/serious) to participate in multiple tournaments and hone their skills under pressure. Some of the leagues we have participated in are:
 
 * No Dip League (NDL)
 * Miner League Clan Wars (MLCW)
@@ -21,4 +21,4 @@ Many of our members love to challenge themselves in Clash of Clans. Therefore ou
 * Brothers Family Alliance (BFA)
 * Hunger Cup League (HCL)
 
-Learn more about [**KGH Academy**]() in our [Discord server](https://discord.gg/clashfiles) where you can chat with its members and recruiters!
+Learn more about [**KGH Academy**](https://clashpodcast.com/serious) in our [Discord server](https://discord.gg/clashfiles) where you can chat with its members and recruiters!
