@@ -21,4 +21,4 @@ Many of our members love to challenge themselves in Clash of Clans. Therefore ou
 * Brothers Family Alliance (BFA)
 * Hunger Cup League (HCL)
 
-Learn more about **KGH Academy** in our [Discord server](https://discord.gg/clashfiles) where you can chat with its members and recruiters!
+Learn more about [**KGH Academy**]() in our [Discord server](https://discord.gg/clashfiles) where you can chat with its members and recruiters!
