@@ -1,7 +1,7 @@
 ---
 title: Esports and Leagues
 date: 2021-07-12T16:00:00.000-04:00
-image: "/images/clasheventsbadge.png"
+image: "/images/scclashevents.png"
 type: regular
 description: ''
 
