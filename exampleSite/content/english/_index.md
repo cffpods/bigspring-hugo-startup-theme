@@ -69,7 +69,7 @@ service:
       link: "scrims"
   - title: In The Clash Files Family you'll love the game AND love the players
     images:
-    - "/images/goblingang.png"
+    - "/images/goblingangc.png"
     content: We’ve been a relaxed, clashy, pizza-loving clan family for over six years.
     button:
       enable: true
