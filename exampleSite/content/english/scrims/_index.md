@@ -25,15 +25,12 @@ service:
     - "/images/hogrider-th9love-1920-1080.png"
     - "/images/draft-k2bday-2020.png"
     - "/images/2588760_orig.png"
-    - "/images/2552025.png"
     - "/images/make-air-great_1_orig.png"
-    - "/images/nh-k2-2017_orig.jpg"
     - "/images/cffcr-summerspec-crop1.png"
     - "/images/_6627532_orig.png"
     - "/images/glazedvfrosted2.jpg"
     - "/images/glazedvfrosted1.jpg"
     - "/images/bbqwizard.jpg"
-    - "/images/387942_orig.png"
     content: 'Because Clashing is more fun with friends!'
     button:
       enable: true
