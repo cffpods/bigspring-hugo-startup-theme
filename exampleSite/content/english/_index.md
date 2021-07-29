@@ -78,7 +78,7 @@ service:
 screenshot:
   enable: true
   title: Discover the Best <br> Clash Community
-  image: "/images/royalrecruits1.png"
+  image: "/images/royalrecruits.png"
 call_to_action:
   enable: true
   title: Ready to play in a fun & drama-free way?
