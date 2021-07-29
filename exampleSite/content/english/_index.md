@@ -61,7 +61,7 @@ service:
       link: "clans"
   - title: We constantly host fun events and participate in multiple leagues
     images:
-    - "/images/trophy.png"
+    - "/images/legend.png"
     content: We always have something going on because gaming is more fun with friends!
     button:
       enable: true
