@@ -51,7 +51,7 @@ service:
       enable: true
       label: Listen & learn more
       link: "podcasts"
-  - title: We offer 10+ clans in Clash of Clans and Clash Royale
+  - title: We offer 10+ clans in Clash of Clans, Clash Royale, & more.
     images:
     - "/images/clancastlec.png"
     content: And ALL of them are full of players who are mature, active, & fun.
