@@ -90,6 +90,8 @@ call_to_action:
     label: Discord
     link: https://discord.gg/clashfiles
 title: ''
+description: The Clash Files is the best Podcast, Scrim, and Clan Community in Clash
+  of Clans. We share attack strategies, upgrade advice, game news, and base design.
 
 ---
 ***
