@@ -2,7 +2,7 @@
 title: 'Clash of Clans: The Shadow Queen'
 date: 2022-01-04T00:00:00-05:00
 image: "/images/shadowqueen.jpg"
-type: featured
+type: regu
 description: ''
 
 ---
