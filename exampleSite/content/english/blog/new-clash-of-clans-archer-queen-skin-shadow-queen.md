@@ -6,4 +6,4 @@ type: regular
 description: ''
 
 ---
-{{< youtube id**=**"UBhMXOskQHk" title**=**"Shadow Queen (Clash of Clans Season Challenge Archer Queen Skin Reward)" >}}
+{{< youtube id="UBhMXOskQHk" title="Shadow Queen (Clash of Clans Season Challenge Archer Queen Skin Reward" >}}
