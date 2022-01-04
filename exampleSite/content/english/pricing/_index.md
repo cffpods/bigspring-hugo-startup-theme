@@ -1,7 +1,8 @@
 ---
 title: Our Clans
 subtitle: ''
-description: 'We offer the following types of clans:'
+description: The Clash Files is the best Podcast, Scrim, and Clan Community in Clash
+  of Clans. We share attack strategies, upgrade advice, game news, and base design.
 draft: false
 basic:
   name: Clash of Clans
