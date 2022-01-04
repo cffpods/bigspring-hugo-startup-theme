@@ -1,8 +1,8 @@
 ---
 title: 'New Clash of Clans Archer Queen Skin: Shadow Queen!'
-date: 
+date: 2022-01-04T12:00:00-05:00
 image: ''
-type: ''
+type: featured
 description: ''
 
 ---
