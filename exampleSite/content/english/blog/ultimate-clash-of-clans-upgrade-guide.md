@@ -8,3 +8,5 @@ description: The Clash Files is the best Podcast, Scrim, and Clan Community in C
 
 ---
 [CorruptYT](https://www.youtube.com/channel/UCXqIe8YrT3zw8f3W73Q7qhg) shows how to efficiently upgrade EVERY Town Hall in Clash of Clans!
+
+{{< youtube id="DosvIp06bCs" title="Ultimate Upgrade Guide for EVERY Town Hall Level! (Clash of Clans) by CorruptYT" >}}
