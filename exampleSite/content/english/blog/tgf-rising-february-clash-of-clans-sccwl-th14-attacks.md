@@ -1,7 +1,7 @@
 ---
 title: TGF Rising February Clash of Clans SCCWL TH14 Attacks
 date: 2022-03-01T00:00:00-05:00
-image: ''
+image: "/images/manus-pushforchamp3.jpg"
 type: featured
 description: "#ClashOfClans #CoC #ClashOfClansAttacks #TH14AttackStrategy #CoC #SC
   #Supercell #ClashOfClansAttacks #CWL #SCCWL #ClashofClansPodcast #ClashofClansPodcasts
