@@ -2,7 +2,7 @@
 title: Ultimate Clash of Clans Upgrade Guide
 date: 2022-01-04T07:00:00-05:00
 image: "/images/corruptyt-2022upgrades.jpg"
-type: featured
+type: regular
 description: The Clash Files is the best Podcast, Scrim, and Clan Community in Clash
   of Clans. We share attack strategies, upgrade advice, game news, and base design.
 
