@@ -24,7 +24,7 @@ name = "Rules & Guidelines"
 url = "terms-conditions"
 [[footer_right]]
 name = "Support Us"
-url = "#"
+url = "https://discord.com/channels/101681392651362304/role-subscriptions"
 [[main]]
 name = "Home"
 url = "/"
