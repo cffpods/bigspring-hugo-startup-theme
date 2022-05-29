@@ -7,6 +7,6 @@ draft: false
 ---
 ### Join Our Discord Server
 
-For nearly **seven** years we have provided a welcoming Clash of Clans and Clash Royale community with scrims, 15+ clans, friendship, and fun.
+Since October 2015, we have provided a welcoming Clash of Clans and Clash Royale community with scrims, 15+ clans, friendship, and fun.
 
 * [**https://discord.gg/clashfiles**](https://discord.gg/clashfiles "discord.gg/clashfiles")
