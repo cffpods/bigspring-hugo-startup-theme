@@ -35,8 +35,8 @@ business:
   price_per: ''
   info: We make all games more fun.
   services:
-  - Two Clan Options
-  - Cards Level 9+
+  - Multiple Games
+  - Various Clan Options
   - Mature Adults
   button:
     enable: true
