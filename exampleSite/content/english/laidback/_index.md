@@ -1,6 +1,8 @@
 ---
 title: 'Clash of Clans: Laid-Back Clans'
-subtitle: 'We have fun while warring to win! See a [clan](/clans) you like? Head to our [Discord](https://discord.gg/clasfiles) server to get its join password from Recruiters.'
+subtitle: We have fun while warring to win! See a [clan](/clans) you like? Head to
+  our [Discord](https://discord.gg/clasfiles) server to get its join password from
+  Recruiters.
 description: We like to make war fun.
 draft: false
 basic:
@@ -53,11 +55,7 @@ call_to_action:
     link: https://discord.gg/clashfiles
 
 ---
-{{< clan "💀 Dark Sector: Adults 18+, TH11+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
-
-{{< clan "🌱 DarkThorn: Adults 18+, TH11 & BELOW" >}} At DarkThorn we are chill and social with YOLO wars. {{</ clan >}}
-
-{{< clan "🍀 Dublin: Adults 18+, All Town Halls" >}} We take a YOLO approach to war while aiming to keep our good war log. GMT and BST Timezones. {{</ clan >}}
+{{< clan "💀 Dark Sector: Adults 18+, TH13+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
 
 {{< clan "🌑 Phantom Zone: Adults 21+, TH11+" >}} We take pride in having fun wars in a mature adult environment. {{</ clan >}}
 
