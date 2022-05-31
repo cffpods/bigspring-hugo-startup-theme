@@ -30,10 +30,10 @@ professional:
     label: Find Your Clan
     link: "serious"
 business:
-  name: Clash Royale
+  name: Other Games
   price: Casual Competitors
   price_per: ''
-  info: We keep our gameplay relaxed.
+  info: We make all games more fun.
   services:
   - Two Clan Options
   - Cards Level 9+
