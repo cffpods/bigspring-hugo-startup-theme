@@ -1,7 +1,7 @@
 ---
 title: Other Games
-subtitle: We make all games fun. Want to join our [clans](/clans)? Head to our [Discord](https://discord.gg/clashfiles)
-  server to get the join password!
+subtitle: We make every game more fun! Want to join our [clans](/clans)? Head to our
+  [Discord](https://discord.gg/clashfiles) server to get the join password!
 description: We make all games fun.
 draft: false
 
