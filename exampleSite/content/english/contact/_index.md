@@ -1,6 +1,6 @@
 ---
 title: Join Us
-subtitle: Become a part of our Clash Family
+subtitle: Become a part of our Clash Files Family
 description: ''
 draft: false
 
