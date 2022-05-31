@@ -1,8 +1,7 @@
 ---
 title: Our Clans
 subtitle: ''
-description: The Clash Files is the best Podcast, Scrim, and Clan Community in Clash
-  of Clans. We share attack strategies, upgrade advice, game news, and base design.
+description: 'We offer the following types of clans:'
 draft: false
 basic:
   name: Clash of Clans
@@ -31,10 +30,10 @@ professional:
     label: Apply in Discord
     link: https://discord.gg/clashfiles
 business:
-  name: Clash Royale
-  price: Casually Competitive
+  name: Other Games
+  price: Casual Competitors
   price_per: ''
-  info: We make war fun again.
+  info: We make all games fun.
   services:
   - Two Clan Options
   - Legendary & Gold League
