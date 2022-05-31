@@ -6,4 +6,4 @@ description: We make all games fun.
 draft: false
 
 ---
-{{< clan "🥘 Clash Royale - Deep Dish: Adults 18+, Cards Level 9+" >}} We're a casually competitive clan in Legendary League. The casual means we don't judge performance in war. The competitive means we expect effort. {{</ clan >}}
+{{< clan "🥘 Clash Royale: Deep Dish. Adults 18+, Cards Level 9+" >}} We're a casually competitive clan in Legendary League. The casual means we don't judge performance in war. The competitive means we expect effort. {{</ clan >}}
