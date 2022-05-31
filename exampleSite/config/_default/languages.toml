@@ -11,7 +11,7 @@ weight = 2
 [en]
 contentDir = "content/english"
 copyright = "© Clash Podcast 2022. This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell’s Fan Content Policy](https://www.supercell.com/fan-content-policy)"
-footer_content = "The Clash Files is the best Podcast, Scrim, and Clan Community in Clash of Clans. We share attack strategies, upgrade advice, game news, and base design."
+footer_content = "The Clash Files is the best Podcast, Scrim, and Clan Community in Supercell games like Clash of Clans, Clash Royale, Everdale, Clash Quest, Clash Mini, Brawl Stars, Boom Beach and HayDay. We share attack strategies, upgrade advice, game news, and base design."
 footer_menu_left = "Gameplay"
 footer_menu_middle = "Community"
 footer_menu_right = "About Us"
