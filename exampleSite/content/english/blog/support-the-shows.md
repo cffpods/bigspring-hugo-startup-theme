@@ -9,7 +9,7 @@ description: The Clash Files is the best Podcast, Scrim, and Clan Community in C
 ---
 ### We LOVE making our podcasts and building our amazing Clash Files community.
 
-If you would like to donate to our efforts, subscribe to our [Discord server](discord.gg/clashfiles)! All [Premium Membership](https://discord.com/channels/101681392651362304/role-subscriptions) funds are poured directly back into The Clash Files podcasts and community enrichment, helping us provide resources, event prizes and giveaways for everyone.
+**If you would like to donate to our efforts, subscribe to our** [**Discord server**](discord.gg/clashfiles)**!** All [Premium Membership](https://discord.com/channels/101681392651362304/role-subscriptions) funds are poured directly back into The Clash Files podcasts and community enrichment, helping us provide resources, event prizes and giveaways for everyone.
 
 Clash File Subscribers become **Guardians of the CFF** and get several fun perks, including:
 
