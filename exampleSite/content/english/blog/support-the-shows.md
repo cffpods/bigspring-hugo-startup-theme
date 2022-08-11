@@ -23,7 +23,7 @@ Clash File Subscribers become **Guardians of the CFF** and get several fun perks
 
 ────
 
-#### 🚀 As of July 2022, it's now even easier for both Desktop AND Mobile members to support us with the [**Clash Files Subscriptions**](https://discord.com/channels/101681392651362304/role-subscriptions) link!
+#### 🚀 It's now even easier for both Desktop AND Mobile Clash Files members to support us with the [**Clash Files Subscriptions**](https://discord.com/channels/101681392651362304/role-subscriptions) link! Join the server to find out more - [discord.gg/clashfiles](https://discord.gg/clashfiles)
 
 #### 
 
