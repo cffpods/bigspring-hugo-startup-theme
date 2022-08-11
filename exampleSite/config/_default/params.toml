@@ -11,8 +11,8 @@ enable = true
 expire_days = 2
 [navigation_button]
 enable = true
-label = "Discord"
-link = "https://discord.gg/clashfiles"
+label = "Support Us"
+link = "https://discord.com/channels/101681392651362304/role-subscriptions"
 [preloader]
 enable = false
 preloader = ""
