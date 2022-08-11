@@ -7,7 +7,7 @@ description: The Clash Files is the best Podcast, Scrim, and Clan Community in C
   of Clans. We share attack strategies, upgrade advice, game news, and base design.
 
 ---
-### Married 2 Clash: Episode 14
+### Married 2 Clash Podcast: Episode 14
 
 What’s more fun than summer events, SCCWL and speculation about Clashiversary with the gang? Join us at [discord.gg/clashfiles](discord.gg/clashfiles) to chat with us and join one of our clans in Supercell's Clash of Clans, Clash Royale, and Everdale!
 
