@@ -7,7 +7,7 @@ description: The Clash Files is the best Podcast, Scrim, and Clan Community in C
   of Clans. We share attack strategies, upgrade advice, game news, and base design.
 
 ---
-### We LOVE making our podcast and building our amazing Clash Files community.
+### We LOVE making our podcasts and building our amazing Clash Files community.
 
 If you would like to donate to our efforts, subscribe to our [Discord server](discord.gg/clashfiles)! All [Premium Membership](https://discord.com/channels/101681392651362304/role-subscriptions) funds are poured directly back into The Clash Files podcasts and community enrichment, helping us provide resources, event prizes and giveaways for everyone.
 
