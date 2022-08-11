@@ -55,7 +55,7 @@ call_to_action:
     link: https://discord.gg/clashfiles
 
 ---
-{{< clan "💀 Dark Sector: Adults 18+, TH13+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
+{{< clan "💀 Dark Sector: Adults 18+, TH12+" >}} At Dark Sector we are chill, fun, and friendly! We offer casual, YOLO wars. {{</ clan >}}
 
 {{< clan "🌑 Phantom Zone: Adults 21+, TH11+" >}} We take pride in having fun wars in a mature adult environment. {{</ clan >}}
 
