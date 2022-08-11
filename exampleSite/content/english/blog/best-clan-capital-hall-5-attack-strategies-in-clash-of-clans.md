@@ -1,8 +1,8 @@
 ---
 title: Best Clan Capital Hall 5 Attack Strategies in Clash of Clans
-date: 2022-05-24T11:00:00-04:00
+date: 2022-05-24T11:00:00.000-04:00
 image: "/images/kj-clancapital-op.jpg"
-type: featured
+type: regular
 description: The Clash Files is the best Podcast, Scrim, and Clan Community in Clash
   of Clans. We share attack strategies, upgrade advice, game news, and base design.
 
