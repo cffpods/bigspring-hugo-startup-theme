@@ -1,9 +1,10 @@
 ---
 title: Hot Fun in the Summertime - Clash of Clans
-date: 
-image: ''
-type: ''
-description: ''
+date: 2022-07-08T19:00:00-04:00
+image: "/images/pat33hotfunsummertime.png"
+type: regular
+description: The Clash Files is the best Podcast, Scrim, and Clan Community in Clash
+  of Clans. We share attack strategies, upgrade advice, game news, and base design.
 
 ---
 ### Pineapples & Thorns Podcast: Episode 33
