@@ -13,4 +13,4 @@ Peter & Kat are joined by Under the Blood - 'nuff said. Plus all the usual Clash
 
 {{< youtube id="l8WTinrjh_4&t=3524s" title="Blood, Sweat, and Tears - Clash of Clans (Pineapples & Thorns Podcast Episode 34)" >}}
 
-We LOVE making our podcast and building our community. You can help support our work by [subscribing to our Discord server](https://discord.com/channels/101681392651362304/role-subscriptions). All [Premium Membership](https://discord.com/channels/101681392651362304/role-subscriptions) funds are poured directly back into our podcast & events, and you get extra perks!
+We LOVE making our podcast and building our community. You can help support our work by [**subscribing to our Discord server**](https://discord.com/channels/101681392651362304/role-subscriptions). All [Premium Membership](https://discord.com/channels/101681392651362304/role-subscriptions) funds are poured directly back into our podcast & events, and you get extra perks!
