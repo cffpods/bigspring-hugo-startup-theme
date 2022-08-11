@@ -12,7 +12,7 @@ expire_days = 2
 [navigation_button]
 enable = true
 label = "Support Us"
-link = "https://discord.com/channels/101681392651362304/role-subscriptions"
+link = "https://www.clashpodcast.com/blog/support-the-shows/"
 [preloader]
 enable = false
 preloader = ""
