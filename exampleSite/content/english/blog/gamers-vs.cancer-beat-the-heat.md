@@ -1,5 +1,5 @@
 ---
-title: 'Gamers vs. Cancer: Beat the Heat!'
+title: 'Gamers vs. Cancer: We Beat the Heat!'
 date: 2022-07-26T11:15:00-04:00
 image: "/images/beat-the-heat-ch-2022.jpg"
 type: featured
