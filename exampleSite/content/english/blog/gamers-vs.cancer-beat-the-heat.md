@@ -2,8 +2,9 @@
 title: 'Gamers vs. Cancer: Beat the Heat!'
 date: 2022-07-26T11:15:00-04:00
 image: "/images/beat-the-heat-ch-2022.jpg"
-type: ''
-description: ''
+type: featured
+description: The Clash Files is the best Podcast, Scrim, and Clan Community in Clash
+  of Clans. We share attack strategies, upgrade advice, game news, and base design.
 
 ---
 **BEAT THE HEAT was such an amazing event!!**
