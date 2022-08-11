@@ -22,10 +22,9 @@ feature:
     icon: fas fa-chess-rook
     content: Our Clash & Royale clans are full of players who are mature, active,
       & fun.
-  - name: Leagues & eSports
+  - name: Clan War League
     icon: fas fa-medal
-    content: 'We participate in potluck wars, community-made leagues, and eSports
-      tournaments. '
+    content: We have multiple event clans so all townhalls can do SCCWL.
   - name: Gameplay Development
     icon: fas fa-gamepad
     content: We teach war skills like base building, base identification, scouting,
@@ -44,13 +43,13 @@ service:
     - "/images/1400tcf.jpg"
     - "/images/kgh-588.png"
     - "/images/mwc.jpg"
-    content: 'Our two most recent shows, Pineapples & Thorns and Married 2 Clash, are
-      the spiritual successors of our three previous podcasts: The Clash Files, Kent
-      Greenhouse, and Married with Clash.'
+    content: 'Our two most recent shows, Pineapples & Thorns and Married 2 Clash,
+      are the spiritual successors of our three previous podcasts: The Clash Files,
+      Kent Greenhouse, and Married with Clash.'
     button:
       enable: true
       label: Listen & learn more
-      link: "podcasts"
+      link: podcasts
   - title: We offer 10+ clans in Clash of Clans, Clash Royale, & more.
     images:
     - "/images/clancastlec.png"
@@ -58,7 +57,7 @@ service:
     button:
       enable: true
       label: Find your new clan
-      link: "clans"
+      link: clans
   - title: We constantly host fun events and participate in multiple leagues
     images:
     - "/images/legend.png"
@@ -66,7 +65,7 @@ service:
     button:
       enable: true
       label: Check them out
-      link: "scrims"
+      link: scrims
   - title: In The Clash Files Family you'll love the game AND love the players
     images:
     - "/images/goblingangc.png"
@@ -74,7 +73,7 @@ service:
     button:
       enable: true
       label: Find out why
-      link: "faq"
+      link: faq
 screenshot:
   enable: true
   title: Discover the Best <br> Clash Community
