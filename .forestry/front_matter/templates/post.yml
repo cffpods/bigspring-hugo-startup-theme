@@ -19,6 +19,7 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/english/blog/ace-of-spades-pineapples-thorns-clash-of-clans-podcast-episode-39.md
 - exampleSite/content/english/blog/basebuilding-secrets.md
 - exampleSite/content/english/blog/basebuilding-secrets.md
 - exampleSite/content/english/blog/best-clan-capital-hall-5-attack-strategies-in-clash-of-clans.md
