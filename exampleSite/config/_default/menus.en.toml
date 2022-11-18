@@ -8,14 +8,14 @@ url = "podcasts"
 name = "Clash Scrims"
 url = "scrims"
 [[footer_middle]]
-name = "Brick Oven Blog"
-url = "blog"
-[[footer_middle]]
-name = "Clash Podcasts"
-url = "podcasts"
-[[footer_middle]]
 name = "Discord Server"
 url = "https://discord.gg/clashfiles"
+[[footer_middle]]
+name = "Clash Blog"
+url = "blog"
+[[footer_middle]]
+name = "Mastodon"
+url = "https://mastodon.social/@clashfiles"
 [[footer_right]]
 name = "Frequently Asked"
 url = "faq"
