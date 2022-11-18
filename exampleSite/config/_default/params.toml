@@ -19,20 +19,25 @@ preloader = ""
 [[social]]
 icon = "fab fa-mastodon"
 link = "https://mastodon.social/@clashfiles"
+rel = "me"
 title = "mastodon"
 [[social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCZSl_u5c1AMxeiRVpM8BdDg"
+rel = "me"
 title = "youtube"
 [[social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/theclashfiles"
+rel = "me"
 title = "twitter"
 [[social]]
 icon = "fab fa-twitch"
 link = "https://www.twitch.tv/clashfiles"
+rel = "me"
 title = "twitch"
 [[social]]
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/clashpod"
+rel = "me"
 title = "facebook"
