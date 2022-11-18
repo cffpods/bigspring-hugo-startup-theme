@@ -19,7 +19,6 @@ preloader = ""
 [[social]]
 icon = "fab fa-mastodon"
 link = "https://mastodon.social/@clashfiles"
-rel = "me"
 title = "mastodon"
 [[social]]
 icon = "fab fa-youtube"
