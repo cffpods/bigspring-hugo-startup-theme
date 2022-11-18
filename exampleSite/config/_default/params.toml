@@ -18,7 +18,7 @@ enable = false
 preloader = ""
 [[social]]
 icon = "fab fa-mastodon"
-link = "https://mastodon.social/@clashfiles"
+link = "<a rel=\"me\" href=\"https://mastodon.social/@clashfiles\">"
 title = "mastodon"
 [[social]]
 icon = "fab fa-youtube"
