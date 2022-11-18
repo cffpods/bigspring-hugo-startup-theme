@@ -17,6 +17,10 @@ link = "https://www.clashpodcast.com/blog/support-the-shows/"
 enable = false
 preloader = ""
 [[social]]
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UCZSl_u5c1AMxeiRVpM8BdDg"
+title = "youtube"
+[[social]]
 icon = "fab fa-mastodon"
 link = "https://mastodon.social/@clashfiles"
 title = "mastodon"
@@ -24,10 +28,6 @@ title = "mastodon"
 icon = "fab fa-twitter"
 link = "https://twitter.com/theclashfiles"
 title = "twitter"
-[[social]]
-icon = "fab fa-youtube"
-link = "https://www.youtube.com/channel/UCZSl_u5c1AMxeiRVpM8BdDg"
-title = "youtube"
 [[social]]
 icon = "fab fa-twitch"
 link = "https://www.twitch.tv/clashfiles"
