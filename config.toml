@@ -15,8 +15,9 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [[params.social]]
+icon = "Example"
 name = "Example"
-url = "//example.com"
+link = "//example.com"
 rel = "me"
 [params.variables]
 black = "#000"
