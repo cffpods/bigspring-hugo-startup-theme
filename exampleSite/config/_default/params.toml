@@ -17,27 +17,27 @@ link = "https://www.clashpodcast.com/blog/support-the-shows/"
 enable = false
 preloader = ""
 [[social]]
+title = "mastodon"
 icon = "fab fa-mastodon"
 link = "https://mastodon.social/@clashfiles"
 rel = "me"
-title = "mastodon"
 [[social]]
+title = "youtube"
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCZSl_u5c1AMxeiRVpM8BdDg"
 rel = "me"
-title = "youtube"
 [[social]]
+title = "twitter"
 icon = "fab fa-twitter"
 link = "https://twitter.com/theclashfiles"
 rel = "me"
-title = "twitter"
 [[social]]
+title = "twitch"
 icon = "fab fa-twitch"
 link = "https://www.twitch.tv/clashfiles"
 rel = "me"
-title = "twitch"
 [[social]]
+title = "facebook"
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/clashpod"
 rel = "me"
-title = "facebook"
