@@ -14,8 +14,8 @@ url = "https://discord.gg/clashfiles"
 name = "Clash Blog"
 url = "blog"
 [[footer_middle]]
-name = "Mastodon"
-url = "https://mastodon.social/@clashfiles"
+name = "YouTube"
+url = "https://www.youtube.com/channel/UCZSl_u5c1AMxeiRVpM8BdDg"
 [[footer_right]]
 name = "Frequently Asked"
 url = "faq"
